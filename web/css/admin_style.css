@@ -1,0 +1,45 @@
+body { margin: 0px; background-color: #FFFBF1; padding: 0px; font-size: 14pt; font-family: Arial; color: #454545; }
+
+h1 { font-size: 24pt; font-weight: bold; margin-bottom: 5px; margin-top: 2px; }
+
+div#headerWrapper { text-align: center; background-image: url('../images/header-background.jpg'); background-color: #FFFFFF; background-position: center top; background-repeat: repeat-x; height: 163px; }
+div#header { height: 123px; }
+
+div.header { font-weight: bold; font-size: 16pt; background-color: #ABC178; color: #FFFFFF; padding-left: 5px; border-radius-top-right: 10px; }
+
+div#pageBody { float: left; text-align: left; width: 800px; }
+div#contentWrapper { width: 800px; margin: auto; }
+
+div#nav { float: left; width: 250px; text-align: left; }
+
+div#nav a { margin-right: 5px; border-radius: 5px; padding-left: 12px; padding-right: 12px; text-decoration: none; font-weight: bold; background-color: #ABC178; color: #FFFFFF; }
+div#nav ul { list-style-type: none; }
+
+div.navItem { margin-bottom: 10px; }
+div.navItem a { text-decoration: none; }
+
+div#content { float: right; width: 820px; text-align: left; padding: 10px; margin: 0px; }
+
+.breakbar { background-color: #3399FF; border-top: solid 2px #ffffff; border-bottom: solid 2px #ffffff; margin: 0px; }
+
+.float-left { float: left; }
+.align-left { text-align: left; }
+.align-right { text-align: right; }
+.align-center { text-align: center; }
+
+.light { background-color: #FFF3D6; }
+.dark { background-color: #FFEBBD; }
+
+input { font-size: 14pt; padding: 2px; border-radius: 5px; border: solid 2px #F6A800; background-color: #EBFFFC; color: #454545; }
+
+input[type=text], input[type=password], select { font-size: 14pt; padding: 2px; border-radius: 5px; border: solid 2px #F6A800; background-color: #EBFFFC; color: #454545}
+input[type=submit], input[type=button] { font-size: 14pt; padding: 5px; border-radius: 5px; border: solid 2px #F6A800; background-color: #EBFFFC; color: #454545; font-weight: bold; }
+
+.clear { clear: both; }
+
+.err_msg { background-color: #A91E23; padding: 3px; text-align: center; font-weight: bold; color: #FFFFFF;  }
+
+div.gray { opacity: .5; background-color: #000000; position: absolute; top: 0px; left: 0px; z-index: 100; filter: alpha(opacity = 50); }
+div.overlay { position: absolute; background-color: #ffffff; border: solid 2px #000000; border-radius: 5px; top: 50%; left: 50%; z-index: 101; }
+
+div.white-box { background-color: #FFFFFF; border: solid 1px #000000; border-radius: 5px; z-index: 200; padding: 7px; }

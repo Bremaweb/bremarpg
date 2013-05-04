@@ -1,0 +1,2939 @@
+[12/16/2012 00:00:08] config
+[12/16/2012 00:00:08] /home/brandon/web-code.local/bremarpg-code
+[12/16/2012 00:00:08] application construc
+[12/16/2012 00:00:08] dbclass construct
+[12/16/2012 00:00:08] restoreSession()
+[12/16/2012 00:00:08] 
+[12/16/2012 00:00:31] config
+[12/16/2012 00:00:31] /home/brandon/web-code.local/bremarpg-code
+[12/16/2012 00:00:31] application construc
+[12/16/2012 00:00:31] dbclass construct
+[12/16/2012 00:00:31] restoreSession()
+[12/16/2012 00:00:31] 
+[12/16/2012 00:01:50] config
+[12/16/2012 00:01:50] /home/brandon/web-code.local/bremarpg-code
+[12/16/2012 00:01:50] application construc
+[12/16/2012 00:01:50] restoreSession()
+[12/16/2012 00:01:50] 
+[12/16/2012 13:27:11] config
+[12/16/2012 13:27:11] /home/brandon/web-code.local/bremarpg-code
+[12/16/2012 13:27:11] application construc
+[12/16/2012 13:27:11] restoreSession()
+[12/16/2012 13:27:11] 
+[12/16/2012 20:31:57] config
+[12/16/2012 20:31:57] /home/brandon/web-code.local/bremarpg-code
+[12/16/2012 20:31:57] application construc
+[12/16/2012 20:31:57] restoreSession()
+[12/16/2012 20:31:57] 
+[12/16/2012 20:35:07] config
+[12/16/2012 20:35:07] /home/brandon/web-code.local/bremarpg-code
+[12/16/2012 20:35:07] application construc
+[12/16/2012 20:35:07] restoreSession()
+[12/16/2012 20:35:07] 
+[12/16/2012 20:36:32] config
+[12/16/2012 20:36:32] /home/brandon/web-code.local/bremarpg-code
+[12/16/2012 20:36:32] application construc
+[12/16/2012 20:36:32] restoreSession()
+[12/16/2012 20:36:32] 
+[12/16/2012 20:37:17] config
+[12/16/2012 20:37:17] /home/brandon/web-code.local/bremarpg-code
+[12/16/2012 20:37:17] application construc
+[12/16/2012 20:37:17] db
+[12/16/2012 20:37:17] 
+[12/16/2012 20:37:17] restoreSession()
+[12/16/2012 20:37:17] 
+[12/16/2012 20:38:15] config
+[12/16/2012 20:38:15] /home/brandon/web-code.local/bremarpg-code
+[12/16/2012 20:38:15] application construc
+[12/16/2012 20:38:15] dbclass construct
+[12/16/2012 20:38:19] db
+[12/16/2012 20:38:19] dbClass Object
+(
+    [dbconn] => Resource id #19
+    [result] => 
+)
+
+[12/16/2012 20:38:19] restoreSession()
+[12/16/2012 20:38:19] 
+[12/16/2012 20:39:58] config
+[12/16/2012 20:39:58] /home/brandon/web-code.local/bremarpg-code
+[12/16/2012 20:39:58] application construc
+[12/16/2012 20:39:58] dbclass construct
+[12/16/2012 20:40:02] db
+[12/16/2012 20:40:02] dbClass Object
+(
+    [dbconn] => Resource id #19
+    [result] => 
+)
+
+[12/16/2012 20:40:02] restoreSession()
+[12/16/2012 20:40:02] 
+[12/16/2012 20:46:55] config
+[12/16/2012 20:46:55] /home/brandon/web-code.local/bremarpg-code
+[12/16/2012 20:46:55] application construc
+[12/16/2012 20:46:55] dbclass construct
+[12/16/2012 20:46:59] db
+[12/16/2012 20:46:59] dbClass Object
+(
+    [dbconn] => Resource id #19
+    [result] => 
+)
+
+[12/16/2012 20:46:59] dbclass construct
+[12/16/2012 20:46:59] routes.php
+[12/16/2012 20:46:59] PHPMailer Object
+(
+    [Priority] => 3
+    [CharSet] => iso-8859-1
+    [ContentType] => text/plain
+    [Encoding] => 8bit
+    [ErrorInfo] => 
+    [From] => no-reply@projectgraduationfun.com
+    [FromName] => Project Graduation Fun
+    [Sender] => 
+    [Subject] => 
+    [Body] => 
+    [AltBody] => 
+    [WordWrap] => 0
+    [Mailer] => smtp
+    [Sendmail] => /usr/sbin/sendmail
+    [PluginDir] => 
+    [ConfirmReadingTo] => 
+    [Hostname] => 
+    [MessageID] => 
+    [Host] => mail.projectgraduationfun.com
+    [Port] => 25
+    [Helo] => 
+    [SMTPSecure] => 
+    [SMTPAuth] => 1
+    [Username] => no-reply@projectgraduationfun.com
+    [Password] => 1pasword1
+    [Timeout] => 10
+    [SMTPDebug] => 
+    [SMTPKeepAlive] => 
+    [SingleTo] => 
+    [LE] => 
+
+    [Version] => 5.0.2
+    [smtp:PHPMailer:private] => 
+    [to:PHPMailer:private] => Array
+        (
+        )
+
+    [cc:PHPMailer:private] => Array
+        (
+        )
+
+    [bcc:PHPMailer:private] => Array
+        (
+        )
+
+    [ReplyTo:PHPMailer:private] => Array
+        (
+            [no-reply@projectgraduationfun.com] => Array
+                (
+                    [0] => no-reply@projectgraduationfun.com
+                    [1] => Project Graduation Fun
+                )
+
+        )
+
+    [all_recipients:PHPMailer:private] => Array
+        (
+        )
+
+    [attachment:PHPMailer:private] => Array
+        (
+        )
+
+    [CustomHeader:PHPMailer:private] => Array
+        (
+        )
+
+    [message_type:PHPMailer:private] => 
+    [boundary:PHPMailer:private] => Array
+        (
+        )
+
+    [language:protected] => Array
+        (
+        )
+
+    [error_count:PHPMailer:private] => 0
+    [sign_cert_file:PHPMailer:private] => 
+    [sign_key_file:PHPMailer:private] => 
+    [sign_key_pass:PHPMailer:private] => 
+    [exceptions:PHPMailer:private] => 1
+)
+
+[12/16/2012 20:46:59] loader db
+[12/16/2012 20:46:59] dbClass Object
+(
+    [dbconn] => Resource id #23
+    [result] => 
+)
+
+[12/16/2012 20:47:27] config
+[12/16/2012 20:47:27] /home/brandon/web-code.local/bremarpg-code
+[12/16/2012 20:47:27] application construc
+[12/16/2012 20:47:27] dbclass construct
+[12/16/2012 20:47:31] db
+[12/16/2012 20:47:31] dbClass Object
+(
+    [dbconn] => Resource id #19
+    [result] => 
+)
+
+[12/16/2012 20:47:31] dbclass construct
+[12/16/2012 20:47:31] routes.php
+[12/16/2012 20:47:31] PHPMailer Object
+(
+    [Priority] => 3
+    [CharSet] => iso-8859-1
+    [ContentType] => text/plain
+    [Encoding] => 8bit
+    [ErrorInfo] => 
+    [From] => no-reply@projectgraduationfun.com
+    [FromName] => Project Graduation Fun
+    [Sender] => 
+    [Subject] => 
+    [Body] => 
+    [AltBody] => 
+    [WordWrap] => 0
+    [Mailer] => smtp
+    [Sendmail] => /usr/sbin/sendmail
+    [PluginDir] => 
+    [ConfirmReadingTo] => 
+    [Hostname] => 
+    [MessageID] => 
+    [Host] => mail.projectgraduationfun.com
+    [Port] => 25
+    [Helo] => 
+    [SMTPSecure] => 
+    [SMTPAuth] => 1
+    [Username] => no-reply@projectgraduationfun.com
+    [Password] => 1pasword1
+    [Timeout] => 10
+    [SMTPDebug] => 
+    [SMTPKeepAlive] => 
+    [SingleTo] => 
+    [LE] => 
+
+    [Version] => 5.0.2
+    [smtp:PHPMailer:private] => 
+    [to:PHPMailer:private] => Array
+        (
+        )
+
+    [cc:PHPMailer:private] => Array
+        (
+        )
+
+    [bcc:PHPMailer:private] => Array
+        (
+        )
+
+    [ReplyTo:PHPMailer:private] => Array
+        (
+            [no-reply@projectgraduationfun.com] => Array
+                (
+                    [0] => no-reply@projectgraduationfun.com
+                    [1] => Project Graduation Fun
+                )
+
+        )
+
+    [all_recipients:PHPMailer:private] => Array
+        (
+        )
+
+    [attachment:PHPMailer:private] => Array
+        (
+        )
+
+    [CustomHeader:PHPMailer:private] => Array
+        (
+        )
+
+    [message_type:PHPMailer:private] => 
+    [boundary:PHPMailer:private] => Array
+        (
+        )
+
+    [language:protected] => Array
+        (
+        )
+
+    [error_count:PHPMailer:private] => 0
+    [sign_cert_file:PHPMailer:private] => 
+    [sign_key_file:PHPMailer:private] => 
+    [sign_key_pass:PHPMailer:private] => 
+    [exceptions:PHPMailer:private] => 1
+)
+
+[12/16/2012 20:47:31] loader db
+[12/16/2012 20:47:31] dbClass Object
+(
+    [dbconn] => Resource id #23
+    [result] => 
+)
+
+[12/16/2012 20:47:31] restoreSession()
+[12/16/2012 20:47:31] Original URI: /bremarpg-code/web/
+[12/16/2012 20:47:31] Mod URI: 
+[12/16/2012 20:47:31] Array
+(
+    [0] => 
+)
+
+[12/16/2012 20:47:31] Array
+(
+    [0] => /game
+    [1] => /login
+    [2] => /about
+    [3] => 
+)
+
+[12/16/2012 20:47:31] Route: 
+[12/16/2012 20:47:31] File: /game
+[12/16/2012 20:47:31] Route: 
+[12/16/2012 20:47:31] File: /login
+[12/16/2012 20:47:31] Route: 
+[12/16/2012 20:47:31] File: /about
+[12/16/2012 20:47:31] Route: 
+[12/16/2012 20:47:31] File: 
+[12/16/2012 20:47:31] Found route entry
+[12/16/2012 20:47:31] Array
+(
+    [class] => index
+    [template] => index
+    [uri] => 
+    [xml_file] => 
+)
+
+[12/16/2012 20:47:31] create page class
+[12/16/2012 20:47:31] render page
+[12/16/2012 20:52:58] config
+[12/16/2012 20:52:58] /home/brandon/web-code.local/bremarpg-code
+[12/16/2012 20:52:58] application construc
+[12/16/2012 20:52:58] dbclass construct
+[12/16/2012 20:53:02] db
+[12/16/2012 20:53:02] dbClass Object
+(
+    [dbconn] => Resource id #19
+    [result] => 
+)
+
+[12/16/2012 20:53:02] dbclass construct
+[12/16/2012 20:53:02] routes.php
+[12/16/2012 20:53:02] PHPMailer Object
+(
+    [Priority] => 3
+    [CharSet] => iso-8859-1
+    [ContentType] => text/plain
+    [Encoding] => 8bit
+    [ErrorInfo] => 
+    [From] => no-reply@projectgraduationfun.com
+    [FromName] => Project Graduation Fun
+    [Sender] => 
+    [Subject] => 
+    [Body] => 
+    [AltBody] => 
+    [WordWrap] => 0
+    [Mailer] => smtp
+    [Sendmail] => /usr/sbin/sendmail
+    [PluginDir] => 
+    [ConfirmReadingTo] => 
+    [Hostname] => 
+    [MessageID] => 
+    [Host] => mail.projectgraduationfun.com
+    [Port] => 25
+    [Helo] => 
+    [SMTPSecure] => 
+    [SMTPAuth] => 1
+    [Username] => no-reply@projectgraduationfun.com
+    [Password] => 1pasword1
+    [Timeout] => 10
+    [SMTPDebug] => 
+    [SMTPKeepAlive] => 
+    [SingleTo] => 
+    [LE] => 
+
+    [Version] => 5.0.2
+    [smtp:PHPMailer:private] => 
+    [to:PHPMailer:private] => Array
+        (
+        )
+
+    [cc:PHPMailer:private] => Array
+        (
+        )
+
+    [bcc:PHPMailer:private] => Array
+        (
+        )
+
+    [ReplyTo:PHPMailer:private] => Array
+        (
+            [no-reply@projectgraduationfun.com] => Array
+                (
+                    [0] => no-reply@projectgraduationfun.com
+                    [1] => Project Graduation Fun
+                )
+
+        )
+
+    [all_recipients:PHPMailer:private] => Array
+        (
+        )
+
+    [attachment:PHPMailer:private] => Array
+        (
+        )
+
+    [CustomHeader:PHPMailer:private] => Array
+        (
+        )
+
+    [message_type:PHPMailer:private] => 
+    [boundary:PHPMailer:private] => Array
+        (
+        )
+
+    [language:protected] => Array
+        (
+        )
+
+    [error_count:PHPMailer:private] => 0
+    [sign_cert_file:PHPMailer:private] => 
+    [sign_key_file:PHPMailer:private] => 
+    [sign_key_pass:PHPMailer:private] => 
+    [exceptions:PHPMailer:private] => 1
+)
+
+[12/16/2012 20:53:02] loader db
+[12/16/2012 20:53:02] dbClass Object
+(
+    [dbconn] => Resource id #23
+    [result] => 
+)
+
+[12/16/2012 20:53:02] restoreSession()
+[12/16/2012 20:53:02] Original URI: /bremarpg-code/web/
+[12/16/2012 20:53:02] Mod URI: 
+[12/16/2012 20:53:02] Array
+(
+    [0] => 
+)
+
+[12/16/2012 20:53:02] Array
+(
+    [0] => /game
+    [1] => /login
+    [2] => /about
+    [3] => 
+)
+
+[12/16/2012 20:53:02] Route: 
+[12/16/2012 20:53:02] File: /game
+[12/16/2012 20:53:02] Route: 
+[12/16/2012 20:53:02] File: /login
+[12/16/2012 20:53:02] Route: 
+[12/16/2012 20:53:02] File: /about
+[12/16/2012 20:53:02] Route: 
+[12/16/2012 20:53:02] File: 
+[12/16/2012 20:53:02] Found route entry
+[12/16/2012 20:53:02] Array
+(
+    [class] => index
+    [template] => index
+    [uri] => 
+    [xml_file] => 
+)
+
+[12/16/2012 20:53:02] create page class
+[12/16/2012 20:53:02] render page
+[12/16/2012 20:57:06] config
+[12/16/2012 20:57:06] /home/brandon/web-code.local/bremarpg-code
+[12/16/2012 20:57:06] application construc
+[12/16/2012 20:57:06] dbclass construct
+[12/16/2012 20:57:06] db
+[12/16/2012 20:57:06] dbClass Object
+(
+    [dbconn] => Resource id #19
+    [result] => 
+)
+
+[12/16/2012 20:57:06] dbclass construct
+[12/16/2012 20:57:06] routes.php
+[12/16/2012 20:57:06] PHPMailer Object
+(
+    [Priority] => 3
+    [CharSet] => iso-8859-1
+    [ContentType] => text/plain
+    [Encoding] => 8bit
+    [ErrorInfo] => 
+    [From] => no-reply@projectgraduationfun.com
+    [FromName] => Project Graduation Fun
+    [Sender] => 
+    [Subject] => 
+    [Body] => 
+    [AltBody] => 
+    [WordWrap] => 0
+    [Mailer] => smtp
+    [Sendmail] => /usr/sbin/sendmail
+    [PluginDir] => 
+    [ConfirmReadingTo] => 
+    [Hostname] => 
+    [MessageID] => 
+    [Host] => mail.projectgraduationfun.com
+    [Port] => 25
+    [Helo] => 
+    [SMTPSecure] => 
+    [SMTPAuth] => 1
+    [Username] => no-reply@projectgraduationfun.com
+    [Password] => 1pasword1
+    [Timeout] => 10
+    [SMTPDebug] => 
+    [SMTPKeepAlive] => 
+    [SingleTo] => 
+    [LE] => 
+
+    [Version] => 5.0.2
+    [smtp:PHPMailer:private] => 
+    [to:PHPMailer:private] => Array
+        (
+        )
+
+    [cc:PHPMailer:private] => Array
+        (
+        )
+
+    [bcc:PHPMailer:private] => Array
+        (
+        )
+
+    [ReplyTo:PHPMailer:private] => Array
+        (
+            [no-reply@projectgraduationfun.com] => Array
+                (
+                    [0] => no-reply@projectgraduationfun.com
+                    [1] => Project Graduation Fun
+                )
+
+        )
+
+    [all_recipients:PHPMailer:private] => Array
+        (
+        )
+
+    [attachment:PHPMailer:private] => Array
+        (
+        )
+
+    [CustomHeader:PHPMailer:private] => Array
+        (
+        )
+
+    [message_type:PHPMailer:private] => 
+    [boundary:PHPMailer:private] => Array
+        (
+        )
+
+    [language:protected] => Array
+        (
+        )
+
+    [error_count:PHPMailer:private] => 0
+    [sign_cert_file:PHPMailer:private] => 
+    [sign_key_file:PHPMailer:private] => 
+    [sign_key_pass:PHPMailer:private] => 
+    [exceptions:PHPMailer:private] => 1
+)
+
+[12/16/2012 20:57:06] loader db
+[12/16/2012 20:57:06] dbClass Object
+(
+    [dbconn] => Resource id #23
+    [result] => 
+)
+
+[12/16/2012 20:57:06] restoreSession()
+[12/16/2012 20:57:06] Original URI: /bremarpg-code/web/
+[12/16/2012 20:57:06] Mod URI: 
+[12/16/2012 20:57:06] Array
+(
+    [0] => 
+)
+
+[12/16/2012 20:57:06] Array
+(
+    [0] => /game
+    [1] => /login
+    [2] => /about
+    [3] => 
+)
+
+[12/16/2012 20:57:06] Route: 
+[12/16/2012 20:57:06] File: /game
+[12/16/2012 20:57:06] Route: 
+[12/16/2012 20:57:06] File: /login
+[12/16/2012 20:57:06] Route: 
+[12/16/2012 20:57:06] File: /about
+[12/16/2012 20:57:06] Route: 
+[12/16/2012 20:57:06] File: 
+[12/16/2012 20:57:06] Found route entry
+[12/16/2012 20:57:06] Array
+(
+    [class] => index
+    [template] => index
+    [uri] => 
+    [xml_file] => 
+)
+
+[12/16/2012 20:57:06] create page class
+[12/16/2012 20:57:06] render page
+[12/16/2012 20:57:23] config
+[12/16/2012 20:57:23] /home/brandon/web-code.local/bremarpg-code
+[12/16/2012 20:57:23] application construc
+[12/16/2012 20:57:23] dbclass construct
+[12/16/2012 20:57:26] db
+[12/16/2012 20:57:26] dbClass Object
+(
+    [dbconn] => Resource id #19
+    [result] => 
+)
+
+[12/16/2012 20:57:26] dbclass construct
+[12/16/2012 20:57:26] routes.php
+[12/16/2012 20:57:26] PHPMailer Object
+(
+    [Priority] => 3
+    [CharSet] => iso-8859-1
+    [ContentType] => text/plain
+    [Encoding] => 8bit
+    [ErrorInfo] => 
+    [From] => no-reply@projectgraduationfun.com
+    [FromName] => Project Graduation Fun
+    [Sender] => 
+    [Subject] => 
+    [Body] => 
+    [AltBody] => 
+    [WordWrap] => 0
+    [Mailer] => smtp
+    [Sendmail] => /usr/sbin/sendmail
+    [PluginDir] => 
+    [ConfirmReadingTo] => 
+    [Hostname] => 
+    [MessageID] => 
+    [Host] => mail.projectgraduationfun.com
+    [Port] => 25
+    [Helo] => 
+    [SMTPSecure] => 
+    [SMTPAuth] => 1
+    [Username] => no-reply@projectgraduationfun.com
+    [Password] => 1pasword1
+    [Timeout] => 10
+    [SMTPDebug] => 
+    [SMTPKeepAlive] => 
+    [SingleTo] => 
+    [LE] => 
+
+    [Version] => 5.0.2
+    [smtp:PHPMailer:private] => 
+    [to:PHPMailer:private] => Array
+        (
+        )
+
+    [cc:PHPMailer:private] => Array
+        (
+        )
+
+    [bcc:PHPMailer:private] => Array
+        (
+        )
+
+    [ReplyTo:PHPMailer:private] => Array
+        (
+            [no-reply@projectgraduationfun.com] => Array
+                (
+                    [0] => no-reply@projectgraduationfun.com
+                    [1] => Project Graduation Fun
+                )
+
+        )
+
+    [all_recipients:PHPMailer:private] => Array
+        (
+        )
+
+    [attachment:PHPMailer:private] => Array
+        (
+        )
+
+    [CustomHeader:PHPMailer:private] => Array
+        (
+        )
+
+    [message_type:PHPMailer:private] => 
+    [boundary:PHPMailer:private] => Array
+        (
+        )
+
+    [language:protected] => Array
+        (
+        )
+
+    [error_count:PHPMailer:private] => 0
+    [sign_cert_file:PHPMailer:private] => 
+    [sign_key_file:PHPMailer:private] => 
+    [sign_key_pass:PHPMailer:private] => 
+    [exceptions:PHPMailer:private] => 1
+)
+
+[12/16/2012 20:57:26] loader db
+[12/16/2012 20:57:26] dbClass Object
+(
+    [dbconn] => Resource id #23
+    [result] => 
+)
+
+[12/16/2012 20:57:26] restoreSession()
+[12/16/2012 20:57:26] Original URI: /bremarpg-code/web/
+[12/16/2012 20:57:26] Mod URI: 
+[12/16/2012 20:57:26] Array
+(
+    [0] => 
+)
+
+[12/16/2012 20:57:26] Array
+(
+    [0] => /game
+    [1] => /login
+    [2] => /about
+    [3] => 
+)
+
+[12/16/2012 20:57:26] Route: 
+[12/16/2012 20:57:26] File: /game
+[12/16/2012 20:57:26] Route: 
+[12/16/2012 20:57:26] File: /login
+[12/16/2012 20:57:26] Route: 
+[12/16/2012 20:57:26] File: /about
+[12/16/2012 20:57:26] Route: 
+[12/16/2012 20:57:26] File: 
+[12/16/2012 20:57:26] Found route entry
+[12/16/2012 20:57:26] Array
+(
+    [class] => index
+    [template] => index
+    [uri] => 
+    [xml_file] => 
+)
+
+[12/16/2012 20:57:26] create page class
+[12/16/2012 20:57:26] render page
+[12/16/2012 20:57:48] config
+[12/16/2012 20:57:48] /home/brandon/web-code.local/bremarpg-code
+[12/16/2012 20:57:48] application construc
+[12/16/2012 20:57:48] dbclass construct
+[12/16/2012 20:57:52] db
+[12/16/2012 20:57:52] dbClass Object
+(
+    [dbconn] => Resource id #19
+    [result] => 
+)
+
+[12/16/2012 20:57:52] dbclass construct
+[12/16/2012 20:57:52] routes.php
+[12/16/2012 20:57:52] PHPMailer Object
+(
+    [Priority] => 3
+    [CharSet] => iso-8859-1
+    [ContentType] => text/plain
+    [Encoding] => 8bit
+    [ErrorInfo] => 
+    [From] => no-reply@projectgraduationfun.com
+    [FromName] => Project Graduation Fun
+    [Sender] => 
+    [Subject] => 
+    [Body] => 
+    [AltBody] => 
+    [WordWrap] => 0
+    [Mailer] => smtp
+    [Sendmail] => /usr/sbin/sendmail
+    [PluginDir] => 
+    [ConfirmReadingTo] => 
+    [Hostname] => 
+    [MessageID] => 
+    [Host] => mail.projectgraduationfun.com
+    [Port] => 25
+    [Helo] => 
+    [SMTPSecure] => 
+    [SMTPAuth] => 1
+    [Username] => no-reply@projectgraduationfun.com
+    [Password] => 1pasword1
+    [Timeout] => 10
+    [SMTPDebug] => 
+    [SMTPKeepAlive] => 
+    [SingleTo] => 
+    [LE] => 
+
+    [Version] => 5.0.2
+    [smtp:PHPMailer:private] => 
+    [to:PHPMailer:private] => Array
+        (
+        )
+
+    [cc:PHPMailer:private] => Array
+        (
+        )
+
+    [bcc:PHPMailer:private] => Array
+        (
+        )
+
+    [ReplyTo:PHPMailer:private] => Array
+        (
+            [no-reply@projectgraduationfun.com] => Array
+                (
+                    [0] => no-reply@projectgraduationfun.com
+                    [1] => Project Graduation Fun
+                )
+
+        )
+
+    [all_recipients:PHPMailer:private] => Array
+        (
+        )
+
+    [attachment:PHPMailer:private] => Array
+        (
+        )
+
+    [CustomHeader:PHPMailer:private] => Array
+        (
+        )
+
+    [message_type:PHPMailer:private] => 
+    [boundary:PHPMailer:private] => Array
+        (
+        )
+
+    [language:protected] => Array
+        (
+        )
+
+    [error_count:PHPMailer:private] => 0
+    [sign_cert_file:PHPMailer:private] => 
+    [sign_key_file:PHPMailer:private] => 
+    [sign_key_pass:PHPMailer:private] => 
+    [exceptions:PHPMailer:private] => 1
+)
+
+[12/16/2012 20:57:52] loader db
+[12/16/2012 20:57:52] dbClass Object
+(
+    [dbconn] => Resource id #23
+    [result] => 
+)
+
+[12/16/2012 20:57:52] restoreSession()
+[12/16/2012 20:57:52] Original URI: /bremarpg-code/web/game
+[12/16/2012 20:57:52] Mod URI: /game
+[12/16/2012 20:57:52] Array
+(
+    [0] => 
+    [1] => game
+)
+
+[12/16/2012 20:57:52] Array
+(
+    [0] => /game
+    [1] => /login
+    [2] => /about
+    [3] => 
+)
+
+[12/16/2012 20:57:52] Route: /game
+[12/16/2012 20:57:52] File: /game
+[12/16/2012 20:57:52] Found route entry
+[12/16/2012 20:57:52] Array
+(
+    [class] => game
+    [template] => game
+    [uri] => /game
+    [xml_file] => 
+)
+
+[12/16/2012 20:57:52] create page class
+[12/16/2012 20:57:52] config
+[12/16/2012 20:57:52] /home/brandon/web-code.local/bremarpg-code
+[12/16/2012 20:57:52] application construc
+[12/16/2012 20:57:52] dbclass construct
+[12/16/2012 20:57:52] db
+[12/16/2012 20:57:52] dbClass Object
+(
+    [dbconn] => Resource id #19
+    [result] => 
+)
+
+[12/16/2012 20:57:52] dbclass construct
+[12/16/2012 20:57:52] routes.php
+[12/16/2012 20:57:52] PHPMailer Object
+(
+    [Priority] => 3
+    [CharSet] => iso-8859-1
+    [ContentType] => text/plain
+    [Encoding] => 8bit
+    [ErrorInfo] => 
+    [From] => no-reply@projectgraduationfun.com
+    [FromName] => Project Graduation Fun
+    [Sender] => 
+    [Subject] => 
+    [Body] => 
+    [AltBody] => 
+    [WordWrap] => 0
+    [Mailer] => smtp
+    [Sendmail] => /usr/sbin/sendmail
+    [PluginDir] => 
+    [ConfirmReadingTo] => 
+    [Hostname] => 
+    [MessageID] => 
+    [Host] => mail.projectgraduationfun.com
+    [Port] => 25
+    [Helo] => 
+    [SMTPSecure] => 
+    [SMTPAuth] => 1
+    [Username] => no-reply@projectgraduationfun.com
+    [Password] => 1pasword1
+    [Timeout] => 10
+    [SMTPDebug] => 
+    [SMTPKeepAlive] => 
+    [SingleTo] => 
+    [LE] => 
+
+    [Version] => 5.0.2
+    [smtp:PHPMailer:private] => 
+    [to:PHPMailer:private] => Array
+        (
+        )
+
+    [cc:PHPMailer:private] => Array
+        (
+        )
+
+    [bcc:PHPMailer:private] => Array
+        (
+        )
+
+    [ReplyTo:PHPMailer:private] => Array
+        (
+            [no-reply@projectgraduationfun.com] => Array
+                (
+                    [0] => no-reply@projectgraduationfun.com
+                    [1] => Project Graduation Fun
+                )
+
+        )
+
+    [all_recipients:PHPMailer:private] => Array
+        (
+        )
+
+    [attachment:PHPMailer:private] => Array
+        (
+        )
+
+    [CustomHeader:PHPMailer:private] => Array
+        (
+        )
+
+    [message_type:PHPMailer:private] => 
+    [boundary:PHPMailer:private] => Array
+        (
+        )
+
+    [language:protected] => Array
+        (
+        )
+
+    [error_count:PHPMailer:private] => 0
+    [sign_cert_file:PHPMailer:private] => 
+    [sign_key_file:PHPMailer:private] => 
+    [sign_key_pass:PHPMailer:private] => 
+    [exceptions:PHPMailer:private] => 1
+)
+
+[12/16/2012 20:57:52] loader db
+[12/16/2012 20:57:52] dbClass Object
+(
+    [dbconn] => Resource id #23
+    [result] => 
+)
+
+[12/16/2012 20:57:52] restoreSession()
+[12/16/2012 20:57:52] Original URI: /bremarpg-code/web/login?redir=/bremarpg-code/web/game
+[12/16/2012 20:57:52] parpos: 24
+[12/16/2012 20:57:52] Mod URI: /login
+[12/16/2012 20:57:52] Array
+(
+    [0] => 
+    [1] => login
+)
+
+[12/16/2012 20:57:52] Array
+(
+    [0] => /game
+    [1] => /login
+    [2] => /about
+    [3] => 
+)
+
+[12/16/2012 20:57:52] Route: /logi
+[12/16/2012 20:57:52] File: /game
+[12/16/2012 20:57:52] Route: /login
+[12/16/2012 20:57:52] File: /login
+[12/16/2012 20:57:52] Found route entry
+[12/16/2012 20:57:52] Array
+(
+    [class] => login
+    [template] => login
+    [uri] => /login
+    [xml_file] => 
+)
+
+[12/16/2012 20:57:52] create page class
+[12/16/2012 20:57:52] render page
+[12/16/2012 20:57:52] Array
+(
+)
+
+[12/16/2012 20:57:59] config
+[12/16/2012 20:57:59] /home/brandon/web-code.local/bremarpg-code
+[12/16/2012 20:57:59] application construc
+[12/16/2012 20:57:59] dbclass construct
+[12/16/2012 20:57:59] db
+[12/16/2012 20:57:59] dbClass Object
+(
+    [dbconn] => Resource id #19
+    [result] => 
+)
+
+[12/16/2012 20:57:59] dbclass construct
+[12/16/2012 20:57:59] routes.php
+[12/16/2012 20:57:59] PHPMailer Object
+(
+    [Priority] => 3
+    [CharSet] => iso-8859-1
+    [ContentType] => text/plain
+    [Encoding] => 8bit
+    [ErrorInfo] => 
+    [From] => no-reply@projectgraduationfun.com
+    [FromName] => Project Graduation Fun
+    [Sender] => 
+    [Subject] => 
+    [Body] => 
+    [AltBody] => 
+    [WordWrap] => 0
+    [Mailer] => smtp
+    [Sendmail] => /usr/sbin/sendmail
+    [PluginDir] => 
+    [ConfirmReadingTo] => 
+    [Hostname] => 
+    [MessageID] => 
+    [Host] => mail.projectgraduationfun.com
+    [Port] => 25
+    [Helo] => 
+    [SMTPSecure] => 
+    [SMTPAuth] => 1
+    [Username] => no-reply@projectgraduationfun.com
+    [Password] => 1pasword1
+    [Timeout] => 10
+    [SMTPDebug] => 
+    [SMTPKeepAlive] => 
+    [SingleTo] => 
+    [LE] => 
+
+    [Version] => 5.0.2
+    [smtp:PHPMailer:private] => 
+    [to:PHPMailer:private] => Array
+        (
+        )
+
+    [cc:PHPMailer:private] => Array
+        (
+        )
+
+    [bcc:PHPMailer:private] => Array
+        (
+        )
+
+    [ReplyTo:PHPMailer:private] => Array
+        (
+            [no-reply@projectgraduationfun.com] => Array
+                (
+                    [0] => no-reply@projectgraduationfun.com
+                    [1] => Project Graduation Fun
+                )
+
+        )
+
+    [all_recipients:PHPMailer:private] => Array
+        (
+        )
+
+    [attachment:PHPMailer:private] => Array
+        (
+        )
+
+    [CustomHeader:PHPMailer:private] => Array
+        (
+        )
+
+    [message_type:PHPMailer:private] => 
+    [boundary:PHPMailer:private] => Array
+        (
+        )
+
+    [language:protected] => Array
+        (
+        )
+
+    [error_count:PHPMailer:private] => 0
+    [sign_cert_file:PHPMailer:private] => 
+    [sign_key_file:PHPMailer:private] => 
+    [sign_key_pass:PHPMailer:private] => 
+    [exceptions:PHPMailer:private] => 1
+)
+
+[12/16/2012 20:57:59] loader db
+[12/16/2012 20:57:59] dbClass Object
+(
+    [dbconn] => Resource id #23
+    [result] => 
+)
+
+[12/16/2012 20:57:59] restoreSession()
+[12/16/2012 20:57:59] Original URI: /bremarpg-code/web/login
+[12/16/2012 20:57:59] Mod URI: /login
+[12/16/2012 20:57:59] Array
+(
+    [0] => 
+    [1] => login
+)
+
+[12/16/2012 20:57:59] Array
+(
+    [0] => /game
+    [1] => /login
+    [2] => /about
+    [3] => 
+)
+
+[12/16/2012 20:57:59] Route: /logi
+[12/16/2012 20:57:59] File: /game
+[12/16/2012 20:57:59] Route: /login
+[12/16/2012 20:57:59] File: /login
+[12/16/2012 20:57:59] Found route entry
+[12/16/2012 20:57:59] Array
+(
+    [class] => login
+    [template] => login
+    [uri] => /login
+    [xml_file] => 
+)
+
+[12/16/2012 20:57:59] create page class
+[12/16/2012 20:57:59] render page
+[12/16/2012 20:57:59] Array
+(
+    [doit] => 1
+    [login] => Array
+        (
+            [email] => admin
+            [password] => admin
+        )
+
+    [loginbutton] => Login
+)
+
+[12/16/2012 20:57:59] Login submitted
+[12/16/2012 20:57:59] login(admin,admin)
+[12/16/2012 20:57:59] createSession(11)
+[12/16/2012 20:57:59] sessions row for userid exists
+[12/16/2012 20:57:59] Sessid: 79a2babc49829b28f2f75f552c75ffa3
+[12/16/2012 20:57:59] Success!
+[12/16/2012 20:57:59] config
+[12/16/2012 20:57:59] /home/brandon/web-code.local/bremarpg-code
+[12/16/2012 20:57:59] application construc
+[12/16/2012 20:57:59] dbclass construct
+[12/16/2012 20:57:59] db
+[12/16/2012 20:57:59] dbClass Object
+(
+    [dbconn] => Resource id #19
+    [result] => 
+)
+
+[12/16/2012 20:57:59] dbclass construct
+[12/16/2012 20:57:59] routes.php
+[12/16/2012 20:57:59] PHPMailer Object
+(
+    [Priority] => 3
+    [CharSet] => iso-8859-1
+    [ContentType] => text/plain
+    [Encoding] => 8bit
+    [ErrorInfo] => 
+    [From] => no-reply@projectgraduationfun.com
+    [FromName] => Project Graduation Fun
+    [Sender] => 
+    [Subject] => 
+    [Body] => 
+    [AltBody] => 
+    [WordWrap] => 0
+    [Mailer] => smtp
+    [Sendmail] => /usr/sbin/sendmail
+    [PluginDir] => 
+    [ConfirmReadingTo] => 
+    [Hostname] => 
+    [MessageID] => 
+    [Host] => mail.projectgraduationfun.com
+    [Port] => 25
+    [Helo] => 
+    [SMTPSecure] => 
+    [SMTPAuth] => 1
+    [Username] => no-reply@projectgraduationfun.com
+    [Password] => 1pasword1
+    [Timeout] => 10
+    [SMTPDebug] => 
+    [SMTPKeepAlive] => 
+    [SingleTo] => 
+    [LE] => 
+
+    [Version] => 5.0.2
+    [smtp:PHPMailer:private] => 
+    [to:PHPMailer:private] => Array
+        (
+        )
+
+    [cc:PHPMailer:private] => Array
+        (
+        )
+
+    [bcc:PHPMailer:private] => Array
+        (
+        )
+
+    [ReplyTo:PHPMailer:private] => Array
+        (
+            [no-reply@projectgraduationfun.com] => Array
+                (
+                    [0] => no-reply@projectgraduationfun.com
+                    [1] => Project Graduation Fun
+                )
+
+        )
+
+    [all_recipients:PHPMailer:private] => Array
+        (
+        )
+
+    [attachment:PHPMailer:private] => Array
+        (
+        )
+
+    [CustomHeader:PHPMailer:private] => Array
+        (
+        )
+
+    [message_type:PHPMailer:private] => 
+    [boundary:PHPMailer:private] => Array
+        (
+        )
+
+    [language:protected] => Array
+        (
+        )
+
+    [error_count:PHPMailer:private] => 0
+    [sign_cert_file:PHPMailer:private] => 
+    [sign_key_file:PHPMailer:private] => 
+    [sign_key_pass:PHPMailer:private] => 
+    [exceptions:PHPMailer:private] => 1
+)
+
+[12/16/2012 20:57:59] loader db
+[12/16/2012 20:57:59] dbClass Object
+(
+    [dbconn] => Resource id #23
+    [result] => 
+)
+
+[12/16/2012 20:57:59] restoreSession(79a2babc49829b28f2f75f552c75ffa3)
+[12/16/2012 20:57:59] Original URI: /bremarpg-code/web/myaccount
+[12/16/2012 20:57:59] Mod URI: /myaccount
+[12/16/2012 20:57:59] Array
+(
+    [0] => 
+    [1] => myaccount
+)
+
+[12/16/2012 20:57:59] Array
+(
+    [0] => /game
+    [1] => /login
+    [2] => /about
+    [3] => 
+)
+
+[12/16/2012 20:57:59] Route: /myac
+[12/16/2012 20:57:59] File: /game
+[12/16/2012 20:57:59] Route: /myacc
+[12/16/2012 20:57:59] File: /login
+[12/16/2012 20:57:59] Route: /myacc
+[12/16/2012 20:57:59] File: /about
+[12/16/2012 20:57:59] Route: 
+[12/16/2012 20:57:59] File: 
+[12/16/2012 20:57:59] Found route entry
+[12/16/2012 20:57:59] Array
+(
+    [class] => index
+    [template] => index
+    [uri] => 
+    [xml_file] => 
+)
+
+[12/16/2012 20:57:59] create page class
+[12/16/2012 20:57:59] render page
+[12/16/2012 21:01:16] config
+[12/16/2012 21:01:16] /home/brandon/web-code.local/bremarpg-code
+[12/16/2012 21:01:16] application construc
+[12/16/2012 21:01:16] dbclass construct
+[12/16/2012 21:01:16] db
+[12/16/2012 21:01:16] dbClass Object
+(
+    [dbconn] => Resource id #19
+    [result] => 
+)
+
+[12/16/2012 21:01:16] dbclass construct
+[12/16/2012 21:01:16] routes.php
+[12/16/2012 21:01:16] PHPMailer Object
+(
+    [Priority] => 3
+    [CharSet] => iso-8859-1
+    [ContentType] => text/plain
+    [Encoding] => 8bit
+    [ErrorInfo] => 
+    [From] => no-reply@projectgraduationfun.com
+    [FromName] => Project Graduation Fun
+    [Sender] => 
+    [Subject] => 
+    [Body] => 
+    [AltBody] => 
+    [WordWrap] => 0
+    [Mailer] => smtp
+    [Sendmail] => /usr/sbin/sendmail
+    [PluginDir] => 
+    [ConfirmReadingTo] => 
+    [Hostname] => 
+    [MessageID] => 
+    [Host] => mail.projectgraduationfun.com
+    [Port] => 25
+    [Helo] => 
+    [SMTPSecure] => 
+    [SMTPAuth] => 1
+    [Username] => no-reply@projectgraduationfun.com
+    [Password] => 1pasword1
+    [Timeout] => 10
+    [SMTPDebug] => 
+    [SMTPKeepAlive] => 
+    [SingleTo] => 
+    [LE] => 
+
+    [Version] => 5.0.2
+    [smtp:PHPMailer:private] => 
+    [to:PHPMailer:private] => Array
+        (
+        )
+
+    [cc:PHPMailer:private] => Array
+        (
+        )
+
+    [bcc:PHPMailer:private] => Array
+        (
+        )
+
+    [ReplyTo:PHPMailer:private] => Array
+        (
+            [no-reply@projectgraduationfun.com] => Array
+                (
+                    [0] => no-reply@projectgraduationfun.com
+                    [1] => Project Graduation Fun
+                )
+
+        )
+
+    [all_recipients:PHPMailer:private] => Array
+        (
+        )
+
+    [attachment:PHPMailer:private] => Array
+        (
+        )
+
+    [CustomHeader:PHPMailer:private] => Array
+        (
+        )
+
+    [message_type:PHPMailer:private] => 
+    [boundary:PHPMailer:private] => Array
+        (
+        )
+
+    [language:protected] => Array
+        (
+        )
+
+    [error_count:PHPMailer:private] => 0
+    [sign_cert_file:PHPMailer:private] => 
+    [sign_key_file:PHPMailer:private] => 
+    [sign_key_pass:PHPMailer:private] => 
+    [exceptions:PHPMailer:private] => 1
+)
+
+[12/16/2012 21:01:16] loader db
+[12/16/2012 21:01:16] dbClass Object
+(
+    [dbconn] => Resource id #23
+    [result] => 
+)
+
+[12/16/2012 21:01:16] restoreSession(79a2babc49829b28f2f75f552c75ffa3)
+[12/16/2012 21:01:16] Original URI: /bremarpg-code/web/myaccount
+[12/16/2012 21:01:16] Mod URI: /myaccount
+[12/16/2012 21:01:16] Array
+(
+    [0] => 
+    [1] => myaccount
+)
+
+[12/16/2012 21:01:16] Array
+(
+    [0] => /game
+    [1] => /login
+    [2] => /about
+    [3] => 
+)
+
+[12/16/2012 21:01:16] Route: /myac
+[12/16/2012 21:01:16] File: /game
+[12/16/2012 21:01:16] Route: /myacc
+[12/16/2012 21:01:16] File: /login
+[12/16/2012 21:01:16] Route: /myacc
+[12/16/2012 21:01:16] File: /about
+[12/16/2012 21:01:16] Route: 
+[12/16/2012 21:01:16] File: 
+[12/16/2012 21:01:16] Found route entry
+[12/16/2012 21:01:16] Array
+(
+    [class] => index
+    [template] => index
+    [uri] => 
+    [xml_file] => 
+)
+
+[12/16/2012 21:01:16] create page class
+[12/16/2012 21:01:16] render page
+[12/16/2012 21:17:56] config
+[12/16/2012 21:17:56] /home/brandon/web-code.local/bremarpg-code
+[12/16/2012 21:17:56] application construc
+[12/16/2012 21:17:56] dbclass construct
+[12/16/2012 21:17:56] db
+[12/16/2012 21:17:56] dbClass Object
+(
+    [dbconn] => Resource id #19
+    [result] => 
+)
+
+[12/16/2012 21:17:56] dbclass construct
+[12/16/2012 21:17:56] routes.php
+[12/16/2012 21:17:56] PHPMailer Object
+(
+    [Priority] => 3
+    [CharSet] => iso-8859-1
+    [ContentType] => text/plain
+    [Encoding] => 8bit
+    [ErrorInfo] => 
+    [From] => no-reply@projectgraduationfun.com
+    [FromName] => Project Graduation Fun
+    [Sender] => 
+    [Subject] => 
+    [Body] => 
+    [AltBody] => 
+    [WordWrap] => 0
+    [Mailer] => smtp
+    [Sendmail] => /usr/sbin/sendmail
+    [PluginDir] => 
+    [ConfirmReadingTo] => 
+    [Hostname] => 
+    [MessageID] => 
+    [Host] => mail.projectgraduationfun.com
+    [Port] => 25
+    [Helo] => 
+    [SMTPSecure] => 
+    [SMTPAuth] => 1
+    [Username] => no-reply@projectgraduationfun.com
+    [Password] => 1pasword1
+    [Timeout] => 10
+    [SMTPDebug] => 
+    [SMTPKeepAlive] => 
+    [SingleTo] => 
+    [LE] => 
+
+    [Version] => 5.0.2
+    [smtp:PHPMailer:private] => 
+    [to:PHPMailer:private] => Array
+        (
+        )
+
+    [cc:PHPMailer:private] => Array
+        (
+        )
+
+    [bcc:PHPMailer:private] => Array
+        (
+        )
+
+    [ReplyTo:PHPMailer:private] => Array
+        (
+            [no-reply@projectgraduationfun.com] => Array
+                (
+                    [0] => no-reply@projectgraduationfun.com
+                    [1] => Project Graduation Fun
+                )
+
+        )
+
+    [all_recipients:PHPMailer:private] => Array
+        (
+        )
+
+    [attachment:PHPMailer:private] => Array
+        (
+        )
+
+    [CustomHeader:PHPMailer:private] => Array
+        (
+        )
+
+    [message_type:PHPMailer:private] => 
+    [boundary:PHPMailer:private] => Array
+        (
+        )
+
+    [language:protected] => Array
+        (
+        )
+
+    [error_count:PHPMailer:private] => 0
+    [sign_cert_file:PHPMailer:private] => 
+    [sign_key_file:PHPMailer:private] => 
+    [sign_key_pass:PHPMailer:private] => 
+    [exceptions:PHPMailer:private] => 1
+)
+
+[12/16/2012 21:17:56] loader db
+[12/16/2012 21:17:56] dbClass Object
+(
+    [dbconn] => Resource id #23
+    [result] => 
+)
+
+[12/16/2012 21:17:56] restoreSession(79a2babc49829b28f2f75f552c75ffa3)
+[12/16/2012 21:17:56] Original URI: /bremarpg-code/web/myaccount
+[12/16/2012 21:17:56] Mod URI: /myaccount
+[12/16/2012 21:17:56] Array
+(
+    [0] => 
+    [1] => myaccount
+)
+
+[12/16/2012 21:17:56] Array
+(
+    [0] => /game
+    [1] => /login
+    [2] => /about
+    [3] => 
+)
+
+[12/16/2012 21:17:56] Route: /myac
+[12/16/2012 21:17:56] File: /game
+[12/16/2012 21:17:56] Route: /myacc
+[12/16/2012 21:17:56] File: /login
+[12/16/2012 21:17:56] Route: /myacc
+[12/16/2012 21:17:56] File: /about
+[12/16/2012 21:17:56] Route: 
+[12/16/2012 21:17:56] File: 
+[12/16/2012 21:17:56] Found route entry
+[12/16/2012 21:17:56] Array
+(
+    [class] => index
+    [template] => index
+    [uri] => 
+    [xml_file] => 
+)
+
+[12/16/2012 21:17:56] create page class
+[12/16/2012 21:17:56] render page
+[12/16/2012 21:18:02] config
+[12/16/2012 21:18:02] /home/brandon/web-code.local/bremarpg-code
+[12/16/2012 21:18:02] application construc
+[12/16/2012 21:18:02] dbclass construct
+[12/16/2012 21:18:06] db
+[12/16/2012 21:18:06] dbClass Object
+(
+    [dbconn] => Resource id #19
+    [result] => 
+)
+
+[12/16/2012 21:18:06] dbclass construct
+[12/16/2012 21:18:06] routes.php
+[12/16/2012 21:18:06] PHPMailer Object
+(
+    [Priority] => 3
+    [CharSet] => iso-8859-1
+    [ContentType] => text/plain
+    [Encoding] => 8bit
+    [ErrorInfo] => 
+    [From] => no-reply@projectgraduationfun.com
+    [FromName] => Project Graduation Fun
+    [Sender] => 
+    [Subject] => 
+    [Body] => 
+    [AltBody] => 
+    [WordWrap] => 0
+    [Mailer] => smtp
+    [Sendmail] => /usr/sbin/sendmail
+    [PluginDir] => 
+    [ConfirmReadingTo] => 
+    [Hostname] => 
+    [MessageID] => 
+    [Host] => mail.projectgraduationfun.com
+    [Port] => 25
+    [Helo] => 
+    [SMTPSecure] => 
+    [SMTPAuth] => 1
+    [Username] => no-reply@projectgraduationfun.com
+    [Password] => 1pasword1
+    [Timeout] => 10
+    [SMTPDebug] => 
+    [SMTPKeepAlive] => 
+    [SingleTo] => 
+    [LE] => 
+
+    [Version] => 5.0.2
+    [smtp:PHPMailer:private] => 
+    [to:PHPMailer:private] => Array
+        (
+        )
+
+    [cc:PHPMailer:private] => Array
+        (
+        )
+
+    [bcc:PHPMailer:private] => Array
+        (
+        )
+
+    [ReplyTo:PHPMailer:private] => Array
+        (
+            [no-reply@projectgraduationfun.com] => Array
+                (
+                    [0] => no-reply@projectgraduationfun.com
+                    [1] => Project Graduation Fun
+                )
+
+        )
+
+    [all_recipients:PHPMailer:private] => Array
+        (
+        )
+
+    [attachment:PHPMailer:private] => Array
+        (
+        )
+
+    [CustomHeader:PHPMailer:private] => Array
+        (
+        )
+
+    [message_type:PHPMailer:private] => 
+    [boundary:PHPMailer:private] => Array
+        (
+        )
+
+    [language:protected] => Array
+        (
+        )
+
+    [error_count:PHPMailer:private] => 0
+    [sign_cert_file:PHPMailer:private] => 
+    [sign_key_file:PHPMailer:private] => 
+    [sign_key_pass:PHPMailer:private] => 
+    [exceptions:PHPMailer:private] => 1
+)
+
+[12/16/2012 21:18:06] loader db
+[12/16/2012 21:18:06] dbClass Object
+(
+    [dbconn] => Resource id #23
+    [result] => 
+)
+
+[12/16/2012 21:18:06] restoreSession(79a2babc49829b28f2f75f552c75ffa3)
+[12/16/2012 21:18:06] Original URI: /bremarpg-code/web/game
+[12/16/2012 21:18:06] Mod URI: /game
+[12/16/2012 21:18:06] Array
+(
+    [0] => 
+    [1] => game
+)
+
+[12/16/2012 21:18:06] Array
+(
+    [0] => /game
+    [1] => /login
+    [2] => /about
+    [3] => 
+)
+
+[12/16/2012 21:18:06] Route: /game
+[12/16/2012 21:18:06] File: /game
+[12/16/2012 21:18:06] Found route entry
+[12/16/2012 21:18:06] Array
+(
+    [class] => game
+    [template] => game
+    [uri] => /game
+    [xml_file] => 
+)
+
+[12/16/2012 21:18:06] create page class
+[12/16/2012 21:18:06] render page
+[12/16/2012 21:19:12] config
+[12/16/2012 21:19:12] /home/brandon/web-code.local/bremarpg-code
+[12/16/2012 21:19:12] application construc
+[12/16/2012 21:19:12] dbclass construct
+[12/16/2012 21:19:12] db
+[12/16/2012 21:19:12] dbClass Object
+(
+    [dbconn] => Resource id #19
+    [result] => 
+)
+
+[12/16/2012 21:19:12] dbclass construct
+[12/16/2012 21:19:12] routes.php
+[12/16/2012 21:19:12] PHPMailer Object
+(
+    [Priority] => 3
+    [CharSet] => iso-8859-1
+    [ContentType] => text/plain
+    [Encoding] => 8bit
+    [ErrorInfo] => 
+    [From] => no-reply@projectgraduationfun.com
+    [FromName] => Project Graduation Fun
+    [Sender] => 
+    [Subject] => 
+    [Body] => 
+    [AltBody] => 
+    [WordWrap] => 0
+    [Mailer] => smtp
+    [Sendmail] => /usr/sbin/sendmail
+    [PluginDir] => 
+    [ConfirmReadingTo] => 
+    [Hostname] => 
+    [MessageID] => 
+    [Host] => mail.projectgraduationfun.com
+    [Port] => 25
+    [Helo] => 
+    [SMTPSecure] => 
+    [SMTPAuth] => 1
+    [Username] => no-reply@projectgraduationfun.com
+    [Password] => 1pasword1
+    [Timeout] => 10
+    [SMTPDebug] => 
+    [SMTPKeepAlive] => 
+    [SingleTo] => 
+    [LE] => 
+
+    [Version] => 5.0.2
+    [smtp:PHPMailer:private] => 
+    [to:PHPMailer:private] => Array
+        (
+        )
+
+    [cc:PHPMailer:private] => Array
+        (
+        )
+
+    [bcc:PHPMailer:private] => Array
+        (
+        )
+
+    [ReplyTo:PHPMailer:private] => Array
+        (
+            [no-reply@projectgraduationfun.com] => Array
+                (
+                    [0] => no-reply@projectgraduationfun.com
+                    [1] => Project Graduation Fun
+                )
+
+        )
+
+    [all_recipients:PHPMailer:private] => Array
+        (
+        )
+
+    [attachment:PHPMailer:private] => Array
+        (
+        )
+
+    [CustomHeader:PHPMailer:private] => Array
+        (
+        )
+
+    [message_type:PHPMailer:private] => 
+    [boundary:PHPMailer:private] => Array
+        (
+        )
+
+    [language:protected] => Array
+        (
+        )
+
+    [error_count:PHPMailer:private] => 0
+    [sign_cert_file:PHPMailer:private] => 
+    [sign_key_file:PHPMailer:private] => 
+    [sign_key_pass:PHPMailer:private] => 
+    [exceptions:PHPMailer:private] => 1
+)
+
+[12/16/2012 21:19:12] loader db
+[12/16/2012 21:19:12] dbClass Object
+(
+    [dbconn] => Resource id #23
+    [result] => 
+)
+
+[12/16/2012 21:19:12] restoreSession(79a2babc49829b28f2f75f552c75ffa3)
+[12/16/2012 21:19:12] Original URI: /bremarpg-code/web/game
+[12/16/2012 21:19:12] Mod URI: /game
+[12/16/2012 21:19:12] Array
+(
+    [0] => 
+    [1] => game
+)
+
+[12/16/2012 21:19:12] Array
+(
+    [0] => /game
+    [1] => /login
+    [2] => /about
+    [3] => 
+)
+
+[12/16/2012 21:19:12] Route: /game
+[12/16/2012 21:19:12] File: /game
+[12/16/2012 21:19:12] Found route entry
+[12/16/2012 21:19:12] Array
+(
+    [class] => game
+    [template] => game
+    [uri] => /game
+    [xml_file] => 
+)
+
+[12/16/2012 21:19:12] create page class
+[12/16/2012 21:19:12] render page
+[12/16/2012 21:27:36] config
+[12/16/2012 21:27:36] /home/brandon/web-code.local/bremarpg-code
+[12/16/2012 21:27:36] application construc
+[12/16/2012 21:27:36] dbclass construct
+[12/16/2012 21:27:36] db
+[12/16/2012 21:27:36] dbClass Object
+(
+    [dbconn] => Resource id #19
+    [result] => 
+)
+
+[12/16/2012 21:27:36] dbclass construct
+[12/16/2012 21:27:36] routes.php
+[12/16/2012 21:27:36] PHPMailer Object
+(
+    [Priority] => 3
+    [CharSet] => iso-8859-1
+    [ContentType] => text/plain
+    [Encoding] => 8bit
+    [ErrorInfo] => 
+    [From] => no-reply@projectgraduationfun.com
+    [FromName] => Project Graduation Fun
+    [Sender] => 
+    [Subject] => 
+    [Body] => 
+    [AltBody] => 
+    [WordWrap] => 0
+    [Mailer] => smtp
+    [Sendmail] => /usr/sbin/sendmail
+    [PluginDir] => 
+    [ConfirmReadingTo] => 
+    [Hostname] => 
+    [MessageID] => 
+    [Host] => mail.projectgraduationfun.com
+    [Port] => 25
+    [Helo] => 
+    [SMTPSecure] => 
+    [SMTPAuth] => 1
+    [Username] => no-reply@projectgraduationfun.com
+    [Password] => 1pasword1
+    [Timeout] => 10
+    [SMTPDebug] => 
+    [SMTPKeepAlive] => 
+    [SingleTo] => 
+    [LE] => 
+
+    [Version] => 5.0.2
+    [smtp:PHPMailer:private] => 
+    [to:PHPMailer:private] => Array
+        (
+        )
+
+    [cc:PHPMailer:private] => Array
+        (
+        )
+
+    [bcc:PHPMailer:private] => Array
+        (
+        )
+
+    [ReplyTo:PHPMailer:private] => Array
+        (
+            [no-reply@projectgraduationfun.com] => Array
+                (
+                    [0] => no-reply@projectgraduationfun.com
+                    [1] => Project Graduation Fun
+                )
+
+        )
+
+    [all_recipients:PHPMailer:private] => Array
+        (
+        )
+
+    [attachment:PHPMailer:private] => Array
+        (
+        )
+
+    [CustomHeader:PHPMailer:private] => Array
+        (
+        )
+
+    [message_type:PHPMailer:private] => 
+    [boundary:PHPMailer:private] => Array
+        (
+        )
+
+    [language:protected] => Array
+        (
+        )
+
+    [error_count:PHPMailer:private] => 0
+    [sign_cert_file:PHPMailer:private] => 
+    [sign_key_file:PHPMailer:private] => 
+    [sign_key_pass:PHPMailer:private] => 
+    [exceptions:PHPMailer:private] => 1
+)
+
+[12/16/2012 21:27:36] loader db
+[12/16/2012 21:27:36] dbClass Object
+(
+    [dbconn] => Resource id #23
+    [result] => 
+)
+
+[12/16/2012 21:27:36] restoreSession(79a2babc49829b28f2f75f552c75ffa3)
+[12/16/2012 21:27:37] Original URI: /bremarpg-code/web/game
+[12/16/2012 21:27:37] Mod URI: /game
+[12/16/2012 21:27:37] Array
+(
+    [0] => 
+    [1] => game
+)
+
+[12/16/2012 21:27:37] Array
+(
+    [0] => /game
+    [1] => /login
+    [2] => /about
+    [3] => 
+)
+
+[12/16/2012 21:27:37] Route: /game
+[12/16/2012 21:27:37] File: /game
+[12/16/2012 21:27:37] Found route entry
+[12/16/2012 21:27:37] Array
+(
+    [class] => game
+    [template] => game
+    [uri] => /game
+    [xml_file] => 
+)
+
+[12/16/2012 21:27:37] create page class
+[12/16/2012 21:27:37] render page
+[12/16/2012 21:29:42] config
+[12/16/2012 21:29:42] /home/brandon/web-code.local/bremarpg-code
+[12/16/2012 21:29:42] application construc
+[12/16/2012 21:29:42] dbclass construct
+[12/16/2012 21:29:46] db
+[12/16/2012 21:29:46] dbClass Object
+(
+    [dbconn] => Resource id #19
+    [result] => 
+)
+
+[12/16/2012 21:29:46] dbclass construct
+[12/16/2012 21:29:46] routes.php
+[12/16/2012 21:29:46] PHPMailer Object
+(
+    [Priority] => 3
+    [CharSet] => iso-8859-1
+    [ContentType] => text/plain
+    [Encoding] => 8bit
+    [ErrorInfo] => 
+    [From] => no-reply@projectgraduationfun.com
+    [FromName] => Project Graduation Fun
+    [Sender] => 
+    [Subject] => 
+    [Body] => 
+    [AltBody] => 
+    [WordWrap] => 0
+    [Mailer] => smtp
+    [Sendmail] => /usr/sbin/sendmail
+    [PluginDir] => 
+    [ConfirmReadingTo] => 
+    [Hostname] => 
+    [MessageID] => 
+    [Host] => mail.projectgraduationfun.com
+    [Port] => 25
+    [Helo] => 
+    [SMTPSecure] => 
+    [SMTPAuth] => 1
+    [Username] => no-reply@projectgraduationfun.com
+    [Password] => 1pasword1
+    [Timeout] => 10
+    [SMTPDebug] => 
+    [SMTPKeepAlive] => 
+    [SingleTo] => 
+    [LE] => 
+
+    [Version] => 5.0.2
+    [smtp:PHPMailer:private] => 
+    [to:PHPMailer:private] => Array
+        (
+        )
+
+    [cc:PHPMailer:private] => Array
+        (
+        )
+
+    [bcc:PHPMailer:private] => Array
+        (
+        )
+
+    [ReplyTo:PHPMailer:private] => Array
+        (
+            [no-reply@projectgraduationfun.com] => Array
+                (
+                    [0] => no-reply@projectgraduationfun.com
+                    [1] => Project Graduation Fun
+                )
+
+        )
+
+    [all_recipients:PHPMailer:private] => Array
+        (
+        )
+
+    [attachment:PHPMailer:private] => Array
+        (
+        )
+
+    [CustomHeader:PHPMailer:private] => Array
+        (
+        )
+
+    [message_type:PHPMailer:private] => 
+    [boundary:PHPMailer:private] => Array
+        (
+        )
+
+    [language:protected] => Array
+        (
+        )
+
+    [error_count:PHPMailer:private] => 0
+    [sign_cert_file:PHPMailer:private] => 
+    [sign_key_file:PHPMailer:private] => 
+    [sign_key_pass:PHPMailer:private] => 
+    [exceptions:PHPMailer:private] => 1
+)
+
+[12/16/2012 21:29:46] loader db
+[12/16/2012 21:29:46] dbClass Object
+(
+    [dbconn] => Resource id #23
+    [result] => 
+)
+
+[12/16/2012 21:29:46] restoreSession(79a2babc49829b28f2f75f552c75ffa3)
+[12/16/2012 21:29:46] Original URI: /bremarpg-code/web/game
+[12/16/2012 21:29:46] Mod URI: /game
+[12/16/2012 21:29:46] Array
+(
+    [0] => 
+    [1] => game
+)
+
+[12/16/2012 21:29:46] Array
+(
+    [0] => /game
+    [1] => /login
+    [2] => /about
+    [3] => 
+)
+
+[12/16/2012 21:29:46] Route: /game
+[12/16/2012 21:29:46] File: /game
+[12/16/2012 21:29:46] Found route entry
+[12/16/2012 21:29:46] Array
+(
+    [class] => game
+    [template] => game
+    [uri] => /game
+    [xml_file] => 
+)
+
+[12/16/2012 21:29:46] create page class
+[12/16/2012 21:29:46] render page
+[12/16/2012 21:30:06] config
+[12/16/2012 21:30:06] /home/brandon/web-code.local/bremarpg-code
+[12/16/2012 21:30:06] application construc
+[12/16/2012 21:30:06] dbclass construct
+[12/16/2012 21:30:06] db
+[12/16/2012 21:30:06] dbClass Object
+(
+    [dbconn] => Resource id #19
+    [result] => 
+)
+
+[12/16/2012 21:30:06] dbclass construct
+[12/16/2012 21:30:06] routes.php
+[12/16/2012 21:30:06] PHPMailer Object
+(
+    [Priority] => 3
+    [CharSet] => iso-8859-1
+    [ContentType] => text/plain
+    [Encoding] => 8bit
+    [ErrorInfo] => 
+    [From] => no-reply@projectgraduationfun.com
+    [FromName] => Project Graduation Fun
+    [Sender] => 
+    [Subject] => 
+    [Body] => 
+    [AltBody] => 
+    [WordWrap] => 0
+    [Mailer] => smtp
+    [Sendmail] => /usr/sbin/sendmail
+    [PluginDir] => 
+    [ConfirmReadingTo] => 
+    [Hostname] => 
+    [MessageID] => 
+    [Host] => mail.projectgraduationfun.com
+    [Port] => 25
+    [Helo] => 
+    [SMTPSecure] => 
+    [SMTPAuth] => 1
+    [Username] => no-reply@projectgraduationfun.com
+    [Password] => 1pasword1
+    [Timeout] => 10
+    [SMTPDebug] => 
+    [SMTPKeepAlive] => 
+    [SingleTo] => 
+    [LE] => 
+
+    [Version] => 5.0.2
+    [smtp:PHPMailer:private] => 
+    [to:PHPMailer:private] => Array
+        (
+        )
+
+    [cc:PHPMailer:private] => Array
+        (
+        )
+
+    [bcc:PHPMailer:private] => Array
+        (
+        )
+
+    [ReplyTo:PHPMailer:private] => Array
+        (
+            [no-reply@projectgraduationfun.com] => Array
+                (
+                    [0] => no-reply@projectgraduationfun.com
+                    [1] => Project Graduation Fun
+                )
+
+        )
+
+    [all_recipients:PHPMailer:private] => Array
+        (
+        )
+
+    [attachment:PHPMailer:private] => Array
+        (
+        )
+
+    [CustomHeader:PHPMailer:private] => Array
+        (
+        )
+
+    [message_type:PHPMailer:private] => 
+    [boundary:PHPMailer:private] => Array
+        (
+        )
+
+    [language:protected] => Array
+        (
+        )
+
+    [error_count:PHPMailer:private] => 0
+    [sign_cert_file:PHPMailer:private] => 
+    [sign_key_file:PHPMailer:private] => 
+    [sign_key_pass:PHPMailer:private] => 
+    [exceptions:PHPMailer:private] => 1
+)
+
+[12/16/2012 21:30:06] loader db
+[12/16/2012 21:30:06] dbClass Object
+(
+    [dbconn] => Resource id #23
+    [result] => 
+)
+
+[12/16/2012 21:30:06] restoreSession(79a2babc49829b28f2f75f552c75ffa3)
+[12/16/2012 21:30:06] Original URI: /bremarpg-code/web/game
+[12/16/2012 21:30:06] Mod URI: /game
+[12/16/2012 21:30:06] Array
+(
+    [0] => 
+    [1] => game
+)
+
+[12/16/2012 21:30:06] Array
+(
+    [0] => /game
+    [1] => /login
+    [2] => /about
+    [3] => 
+)
+
+[12/16/2012 21:30:06] Route: /game
+[12/16/2012 21:30:06] File: /game
+[12/16/2012 21:30:06] Found route entry
+[12/16/2012 21:30:06] Array
+(
+    [class] => game
+    [template] => game
+    [uri] => /game
+    [xml_file] => 
+)
+
+[12/16/2012 21:30:06] create page class
+[12/16/2012 21:30:06] render page
+[12/16/2012 21:31:22] config
+[12/16/2012 21:31:22] /home/brandon/web-code.local/bremarpg-code
+[12/16/2012 21:31:22] application construc
+[12/16/2012 21:31:22] dbclass construct
+[12/16/2012 21:31:22] db
+[12/16/2012 21:31:22] dbClass Object
+(
+    [dbconn] => Resource id #19
+    [result] => 
+)
+
+[12/16/2012 21:31:22] dbclass construct
+[12/16/2012 21:31:22] routes.php
+[12/16/2012 21:31:22] PHPMailer Object
+(
+    [Priority] => 3
+    [CharSet] => iso-8859-1
+    [ContentType] => text/plain
+    [Encoding] => 8bit
+    [ErrorInfo] => 
+    [From] => no-reply@projectgraduationfun.com
+    [FromName] => Project Graduation Fun
+    [Sender] => 
+    [Subject] => 
+    [Body] => 
+    [AltBody] => 
+    [WordWrap] => 0
+    [Mailer] => smtp
+    [Sendmail] => /usr/sbin/sendmail
+    [PluginDir] => 
+    [ConfirmReadingTo] => 
+    [Hostname] => 
+    [MessageID] => 
+    [Host] => mail.projectgraduationfun.com
+    [Port] => 25
+    [Helo] => 
+    [SMTPSecure] => 
+    [SMTPAuth] => 1
+    [Username] => no-reply@projectgraduationfun.com
+    [Password] => 1pasword1
+    [Timeout] => 10
+    [SMTPDebug] => 
+    [SMTPKeepAlive] => 
+    [SingleTo] => 
+    [LE] => 
+
+    [Version] => 5.0.2
+    [smtp:PHPMailer:private] => 
+    [to:PHPMailer:private] => Array
+        (
+        )
+
+    [cc:PHPMailer:private] => Array
+        (
+        )
+
+    [bcc:PHPMailer:private] => Array
+        (
+        )
+
+    [ReplyTo:PHPMailer:private] => Array
+        (
+            [no-reply@projectgraduationfun.com] => Array
+                (
+                    [0] => no-reply@projectgraduationfun.com
+                    [1] => Project Graduation Fun
+                )
+
+        )
+
+    [all_recipients:PHPMailer:private] => Array
+        (
+        )
+
+    [attachment:PHPMailer:private] => Array
+        (
+        )
+
+    [CustomHeader:PHPMailer:private] => Array
+        (
+        )
+
+    [message_type:PHPMailer:private] => 
+    [boundary:PHPMailer:private] => Array
+        (
+        )
+
+    [language:protected] => Array
+        (
+        )
+
+    [error_count:PHPMailer:private] => 0
+    [sign_cert_file:PHPMailer:private] => 
+    [sign_key_file:PHPMailer:private] => 
+    [sign_key_pass:PHPMailer:private] => 
+    [exceptions:PHPMailer:private] => 1
+)
+
+[12/16/2012 21:31:22] loader db
+[12/16/2012 21:31:22] dbClass Object
+(
+    [dbconn] => Resource id #23
+    [result] => 
+)
+
+[12/16/2012 21:31:22] restoreSession(79a2babc49829b28f2f75f552c75ffa3)
+[12/16/2012 21:31:22] Original URI: /bremarpg-code/web/game
+[12/16/2012 21:31:22] Mod URI: /game
+[12/16/2012 21:31:22] Array
+(
+    [0] => 
+    [1] => game
+)
+
+[12/16/2012 21:31:22] Array
+(
+    [0] => /game
+    [1] => /login
+    [2] => /about
+    [3] => 
+)
+
+[12/16/2012 21:31:22] Route: /game
+[12/16/2012 21:31:22] File: /game
+[12/16/2012 21:31:22] Found route entry
+[12/16/2012 21:31:22] Array
+(
+    [class] => game
+    [template] => game
+    [uri] => /game
+    [xml_file] => 
+)
+
+[12/16/2012 21:31:22] create page class
+[12/16/2012 21:31:22] render page
+[12/16/2012 21:32:17] config
+[12/16/2012 21:32:17] /home/brandon/web-code.local/bremarpg-code
+[12/16/2012 21:32:17] application construc
+[12/16/2012 21:32:17] dbclass construct
+[12/16/2012 21:32:17] db
+[12/16/2012 21:32:17] dbClass Object
+(
+    [dbconn] => Resource id #19
+    [result] => 
+)
+
+[12/16/2012 21:32:17] dbclass construct
+[12/16/2012 21:32:17] routes.php
+[12/16/2012 21:32:17] PHPMailer Object
+(
+    [Priority] => 3
+    [CharSet] => iso-8859-1
+    [ContentType] => text/plain
+    [Encoding] => 8bit
+    [ErrorInfo] => 
+    [From] => no-reply@projectgraduationfun.com
+    [FromName] => Project Graduation Fun
+    [Sender] => 
+    [Subject] => 
+    [Body] => 
+    [AltBody] => 
+    [WordWrap] => 0
+    [Mailer] => smtp
+    [Sendmail] => /usr/sbin/sendmail
+    [PluginDir] => 
+    [ConfirmReadingTo] => 
+    [Hostname] => 
+    [MessageID] => 
+    [Host] => mail.projectgraduationfun.com
+    [Port] => 25
+    [Helo] => 
+    [SMTPSecure] => 
+    [SMTPAuth] => 1
+    [Username] => no-reply@projectgraduationfun.com
+    [Password] => 1pasword1
+    [Timeout] => 10
+    [SMTPDebug] => 
+    [SMTPKeepAlive] => 
+    [SingleTo] => 
+    [LE] => 
+
+    [Version] => 5.0.2
+    [smtp:PHPMailer:private] => 
+    [to:PHPMailer:private] => Array
+        (
+        )
+
+    [cc:PHPMailer:private] => Array
+        (
+        )
+
+    [bcc:PHPMailer:private] => Array
+        (
+        )
+
+    [ReplyTo:PHPMailer:private] => Array
+        (
+            [no-reply@projectgraduationfun.com] => Array
+                (
+                    [0] => no-reply@projectgraduationfun.com
+                    [1] => Project Graduation Fun
+                )
+
+        )
+
+    [all_recipients:PHPMailer:private] => Array
+        (
+        )
+
+    [attachment:PHPMailer:private] => Array
+        (
+        )
+
+    [CustomHeader:PHPMailer:private] => Array
+        (
+        )
+
+    [message_type:PHPMailer:private] => 
+    [boundary:PHPMailer:private] => Array
+        (
+        )
+
+    [language:protected] => Array
+        (
+        )
+
+    [error_count:PHPMailer:private] => 0
+    [sign_cert_file:PHPMailer:private] => 
+    [sign_key_file:PHPMailer:private] => 
+    [sign_key_pass:PHPMailer:private] => 
+    [exceptions:PHPMailer:private] => 1
+)
+
+[12/16/2012 21:32:17] loader db
+[12/16/2012 21:32:17] dbClass Object
+(
+    [dbconn] => Resource id #23
+    [result] => 
+)
+
+[12/16/2012 21:32:17] restoreSession(79a2babc49829b28f2f75f552c75ffa3)
+[12/16/2012 21:32:17] Original URI: /bremarpg-code/web/game
+[12/16/2012 21:32:17] Mod URI: /game
+[12/16/2012 21:32:17] Array
+(
+    [0] => 
+    [1] => game
+)
+
+[12/16/2012 21:32:17] Array
+(
+    [0] => /game
+    [1] => /login
+    [2] => /about
+    [3] => 
+)
+
+[12/16/2012 21:32:17] Route: /game
+[12/16/2012 21:32:17] File: /game
+[12/16/2012 21:32:17] Found route entry
+[12/16/2012 21:32:17] Array
+(
+    [class] => game
+    [template] => game
+    [uri] => /game
+    [xml_file] => 
+)
+
+[12/16/2012 21:32:17] create page class
+[12/16/2012 21:32:17] render page
+[12/16/2012 21:32:21] config
+[12/16/2012 21:32:21] /home/brandon/web-code.local/bremarpg-code
+[12/16/2012 21:32:21] application construc
+[12/16/2012 21:32:21] dbclass construct
+[12/16/2012 21:32:21] db
+[12/16/2012 21:32:21] dbClass Object
+(
+    [dbconn] => Resource id #19
+    [result] => 
+)
+
+[12/16/2012 21:32:21] dbclass construct
+[12/16/2012 21:32:21] routes.php
+[12/16/2012 21:32:21] PHPMailer Object
+(
+    [Priority] => 3
+    [CharSet] => iso-8859-1
+    [ContentType] => text/plain
+    [Encoding] => 8bit
+    [ErrorInfo] => 
+    [From] => no-reply@projectgraduationfun.com
+    [FromName] => Project Graduation Fun
+    [Sender] => 
+    [Subject] => 
+    [Body] => 
+    [AltBody] => 
+    [WordWrap] => 0
+    [Mailer] => smtp
+    [Sendmail] => /usr/sbin/sendmail
+    [PluginDir] => 
+    [ConfirmReadingTo] => 
+    [Hostname] => 
+    [MessageID] => 
+    [Host] => mail.projectgraduationfun.com
+    [Port] => 25
+    [Helo] => 
+    [SMTPSecure] => 
+    [SMTPAuth] => 1
+    [Username] => no-reply@projectgraduationfun.com
+    [Password] => 1pasword1
+    [Timeout] => 10
+    [SMTPDebug] => 
+    [SMTPKeepAlive] => 
+    [SingleTo] => 
+    [LE] => 
+
+    [Version] => 5.0.2
+    [smtp:PHPMailer:private] => 
+    [to:PHPMailer:private] => Array
+        (
+        )
+
+    [cc:PHPMailer:private] => Array
+        (
+        )
+
+    [bcc:PHPMailer:private] => Array
+        (
+        )
+
+    [ReplyTo:PHPMailer:private] => Array
+        (
+            [no-reply@projectgraduationfun.com] => Array
+                (
+                    [0] => no-reply@projectgraduationfun.com
+                    [1] => Project Graduation Fun
+                )
+
+        )
+
+    [all_recipients:PHPMailer:private] => Array
+        (
+        )
+
+    [attachment:PHPMailer:private] => Array
+        (
+        )
+
+    [CustomHeader:PHPMailer:private] => Array
+        (
+        )
+
+    [message_type:PHPMailer:private] => 
+    [boundary:PHPMailer:private] => Array
+        (
+        )
+
+    [language:protected] => Array
+        (
+        )
+
+    [error_count:PHPMailer:private] => 0
+    [sign_cert_file:PHPMailer:private] => 
+    [sign_key_file:PHPMailer:private] => 
+    [sign_key_pass:PHPMailer:private] => 
+    [exceptions:PHPMailer:private] => 1
+)
+
+[12/16/2012 21:32:21] loader db
+[12/16/2012 21:32:21] dbClass Object
+(
+    [dbconn] => Resource id #23
+    [result] => 
+)
+
+[12/16/2012 21:32:21] restoreSession(79a2babc49829b28f2f75f552c75ffa3)
+[12/16/2012 21:32:21] Original URI: /bremarpg-code/web/game
+[12/16/2012 21:32:21] Mod URI: /game
+[12/16/2012 21:32:21] Array
+(
+    [0] => 
+    [1] => game
+)
+
+[12/16/2012 21:32:21] Array
+(
+    [0] => /game
+    [1] => /login
+    [2] => /about
+    [3] => 
+)
+
+[12/16/2012 21:32:21] Route: /game
+[12/16/2012 21:32:21] File: /game
+[12/16/2012 21:32:21] Found route entry
+[12/16/2012 21:32:21] Array
+(
+    [class] => game
+    [template] => game
+    [uri] => /game
+    [xml_file] => 
+)
+
+[12/16/2012 21:32:21] create page class
+[12/16/2012 21:32:21] render page
+[12/16/2012 21:34:22] config
+[12/16/2012 21:34:22] /home/brandon/web-code.local/bremarpg-code
+[12/16/2012 21:34:22] application construc
+[12/16/2012 21:34:22] dbclass construct
+[12/16/2012 21:34:22] db
+[12/16/2012 21:34:22] dbClass Object
+(
+    [dbconn] => Resource id #19
+    [result] => 
+)
+
+[12/16/2012 21:34:22] dbclass construct
+[12/16/2012 21:34:22] routes.php
+[12/16/2012 21:34:22] PHPMailer Object
+(
+    [Priority] => 3
+    [CharSet] => iso-8859-1
+    [ContentType] => text/plain
+    [Encoding] => 8bit
+    [ErrorInfo] => 
+    [From] => no-reply@projectgraduationfun.com
+    [FromName] => Project Graduation Fun
+    [Sender] => 
+    [Subject] => 
+    [Body] => 
+    [AltBody] => 
+    [WordWrap] => 0
+    [Mailer] => smtp
+    [Sendmail] => /usr/sbin/sendmail
+    [PluginDir] => 
+    [ConfirmReadingTo] => 
+    [Hostname] => 
+    [MessageID] => 
+    [Host] => mail.projectgraduationfun.com
+    [Port] => 25
+    [Helo] => 
+    [SMTPSecure] => 
+    [SMTPAuth] => 1
+    [Username] => no-reply@projectgraduationfun.com
+    [Password] => 1pasword1
+    [Timeout] => 10
+    [SMTPDebug] => 
+    [SMTPKeepAlive] => 
+    [SingleTo] => 
+    [LE] => 
+
+    [Version] => 5.0.2
+    [smtp:PHPMailer:private] => 
+    [to:PHPMailer:private] => Array
+        (
+        )
+
+    [cc:PHPMailer:private] => Array
+        (
+        )
+
+    [bcc:PHPMailer:private] => Array
+        (
+        )
+
+    [ReplyTo:PHPMailer:private] => Array
+        (
+            [no-reply@projectgraduationfun.com] => Array
+                (
+                    [0] => no-reply@projectgraduationfun.com
+                    [1] => Project Graduation Fun
+                )
+
+        )
+
+    [all_recipients:PHPMailer:private] => Array
+        (
+        )
+
+    [attachment:PHPMailer:private] => Array
+        (
+        )
+
+    [CustomHeader:PHPMailer:private] => Array
+        (
+        )
+
+    [message_type:PHPMailer:private] => 
+    [boundary:PHPMailer:private] => Array
+        (
+        )
+
+    [language:protected] => Array
+        (
+        )
+
+    [error_count:PHPMailer:private] => 0
+    [sign_cert_file:PHPMailer:private] => 
+    [sign_key_file:PHPMailer:private] => 
+    [sign_key_pass:PHPMailer:private] => 
+    [exceptions:PHPMailer:private] => 1
+)
+
+[12/16/2012 21:34:22] loader db
+[12/16/2012 21:34:22] dbClass Object
+(
+    [dbconn] => Resource id #23
+    [result] => 
+)
+
+[12/16/2012 21:34:22] restoreSession(79a2babc49829b28f2f75f552c75ffa3)
+[12/16/2012 21:34:22] Original URI: /bremarpg-code/web/game
+[12/16/2012 21:34:22] Mod URI: /game
+[12/16/2012 21:34:22] Array
+(
+    [0] => 
+    [1] => game
+)
+
+[12/16/2012 21:34:22] Array
+(
+    [0] => /game
+    [1] => /login
+    [2] => /about
+    [3] => 
+)
+
+[12/16/2012 21:34:22] Route: /game
+[12/16/2012 21:34:22] File: /game
+[12/16/2012 21:34:22] Found route entry
+[12/16/2012 21:34:22] Array
+(
+    [class] => game
+    [template] => game
+    [uri] => /game
+    [xml_file] => 
+)
+
+[12/16/2012 21:34:22] create page class
+[12/16/2012 21:34:22] render page
+[12/16/2012 21:35:06] config
+[12/16/2012 21:35:06] /home/brandon/web-code.local/bremarpg-code
+[12/16/2012 21:35:06] application construc
+[12/16/2012 21:35:06] dbclass construct
+[12/16/2012 21:35:10] db
+[12/16/2012 21:35:10] dbClass Object
+(
+    [dbconn] => Resource id #19
+    [result] => 
+)
+
+[12/16/2012 21:35:10] dbclass construct
+[12/16/2012 21:35:10] routes.php
+[12/16/2012 21:35:10] PHPMailer Object
+(
+    [Priority] => 3
+    [CharSet] => iso-8859-1
+    [ContentType] => text/plain
+    [Encoding] => 8bit
+    [ErrorInfo] => 
+    [From] => no-reply@projectgraduationfun.com
+    [FromName] => Project Graduation Fun
+    [Sender] => 
+    [Subject] => 
+    [Body] => 
+    [AltBody] => 
+    [WordWrap] => 0
+    [Mailer] => smtp
+    [Sendmail] => /usr/sbin/sendmail
+    [PluginDir] => 
+    [ConfirmReadingTo] => 
+    [Hostname] => 
+    [MessageID] => 
+    [Host] => mail.projectgraduationfun.com
+    [Port] => 25
+    [Helo] => 
+    [SMTPSecure] => 
+    [SMTPAuth] => 1
+    [Username] => no-reply@projectgraduationfun.com
+    [Password] => 1pasword1
+    [Timeout] => 10
+    [SMTPDebug] => 
+    [SMTPKeepAlive] => 
+    [SingleTo] => 
+    [LE] => 
+
+    [Version] => 5.0.2
+    [smtp:PHPMailer:private] => 
+    [to:PHPMailer:private] => Array
+        (
+        )
+
+    [cc:PHPMailer:private] => Array
+        (
+        )
+
+    [bcc:PHPMailer:private] => Array
+        (
+        )
+
+    [ReplyTo:PHPMailer:private] => Array
+        (
+            [no-reply@projectgraduationfun.com] => Array
+                (
+                    [0] => no-reply@projectgraduationfun.com
+                    [1] => Project Graduation Fun
+                )
+
+        )
+
+    [all_recipients:PHPMailer:private] => Array
+        (
+        )
+
+    [attachment:PHPMailer:private] => Array
+        (
+        )
+
+    [CustomHeader:PHPMailer:private] => Array
+        (
+        )
+
+    [message_type:PHPMailer:private] => 
+    [boundary:PHPMailer:private] => Array
+        (
+        )
+
+    [language:protected] => Array
+        (
+        )
+
+    [error_count:PHPMailer:private] => 0
+    [sign_cert_file:PHPMailer:private] => 
+    [sign_key_file:PHPMailer:private] => 
+    [sign_key_pass:PHPMailer:private] => 
+    [exceptions:PHPMailer:private] => 1
+)
+
+[12/16/2012 21:35:10] loader db
+[12/16/2012 21:35:10] dbClass Object
+(
+    [dbconn] => Resource id #23
+    [result] => 
+)
+
+[12/16/2012 21:35:10] restoreSession(79a2babc49829b28f2f75f552c75ffa3)
+[12/16/2012 21:35:10] Original URI: /bremarpg-code/web/game
+[12/16/2012 21:35:10] Mod URI: /game
+[12/16/2012 21:35:10] Array
+(
+    [0] => 
+    [1] => game
+)
+
+[12/16/2012 21:35:10] Array
+(
+    [0] => /game
+    [1] => /login
+    [2] => /about
+    [3] => 
+)
+
+[12/16/2012 21:35:10] Route: /game
+[12/16/2012 21:35:10] File: /game
+[12/16/2012 21:35:10] Found route entry
+[12/16/2012 21:35:10] Array
+(
+    [class] => game
+    [template] => game
+    [uri] => /game
+    [xml_file] => 
+)
+
+[12/16/2012 21:35:10] create page class
+[12/16/2012 21:35:10] render page

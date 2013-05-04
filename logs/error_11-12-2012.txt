@@ -1,0 +1,9 @@
+[11/12/2012 22:19:09] missing class and template for favicon.ico
+[11/12/2012 22:19:09] missing class and template for favicon.ico
+[11/12/2012 22:19:16] missing class and template for images
+[11/12/2012 22:19:16] missing class and template for favicon.ico
+[11/12/2012 22:19:16] missing class and template for favicon.ico
+[11/12/2012 22:19:22] missing class and template for favicon.ico
+[11/12/2012 22:19:23] missing class and template for favicon.ico
+[11/12/2012 22:19:26] missing class and template for favicon.ico
+[11/12/2012 22:19:26] missing class and template for favicon.ico

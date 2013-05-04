@@ -1,0 +1,523 @@
+[11/12/2012 22:19:07] Original URI: 
+[11/12/2012 22:19:07] Mod URI: 
+[11/12/2012 22:19:07] Template: index
+[11/12/2012 22:19:07] Page Args: 
+[11/12/2012 22:19:07] 
+[11/12/2012 22:19:07] Array
+(
+    [0] => X-Powered-By: PHP/5.3.8
+    [1] => Set-Cookie: PHPSESSID=99nudf6fm3hfnfrhkn7q49f4r0; path=/
+    [2] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [3] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [4] => Pragma: no-cache
+)
+
+[11/12/2012 22:19:09] Original URI: /favicon.ico
+[11/12/2012 22:19:09] Mod URI: /favicon.ico
+[11/12/2012 22:19:09] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[11/12/2012 22:19:09] Original URI: /favicon.ico
+[11/12/2012 22:19:09] Mod URI: /favicon.ico
+[11/12/2012 22:19:09] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[11/12/2012 22:19:09] Original URI: /404
+[11/12/2012 22:19:09] Mod URI: /404
+[11/12/2012 22:19:09] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[11/12/2012 22:19:09] 404.class.php
+[11/12/2012 22:19:09] Template: 404
+[11/12/2012 22:19:09] Page Args: 
+[11/12/2012 22:19:09] Array
+(
+)
+
+[11/12/2012 22:19:09] Array
+(
+    [0] => X-Powered-By: PHP/5.3.8
+    [1] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [2] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [3] => Pragma: no-cache
+)
+
+[11/12/2012 22:19:09] Original URI: /404
+[11/12/2012 22:19:09] Mod URI: /404
+[11/12/2012 22:19:09] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[11/12/2012 22:19:09] 404.class.php
+[11/12/2012 22:19:09] Template: 404
+[11/12/2012 22:19:09] Page Args: 
+[11/12/2012 22:19:09] Array
+(
+)
+
+[11/12/2012 22:19:09] Array
+(
+    [0] => X-Powered-By: PHP/5.3.8
+    [1] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [2] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [3] => Pragma: no-cache
+)
+
+[11/12/2012 22:19:15] Original URI: /game
+[11/12/2012 22:19:15] Mod URI: /game
+[11/12/2012 22:19:15] Array
+(
+    [0] => 
+    [1] => game
+)
+
+[11/12/2012 22:19:15] game.class.php
+[11/12/2012 22:19:15] Template: game
+[11/12/2012 22:19:15] Page Args: 
+[11/12/2012 22:19:15] Array
+(
+)
+
+[11/12/2012 22:19:15] Original URI: /login
+[11/12/2012 22:19:15] Mod URI: /login
+[11/12/2012 22:19:15] Array
+(
+    [0] => 
+    [1] => login
+)
+
+[11/12/2012 22:19:15] login.class.php
+[11/12/2012 22:19:15] Template: login
+[11/12/2012 22:19:15] Page Args: 
+[11/12/2012 22:19:15] Array
+(
+)
+
+[11/12/2012 22:19:15] Array
+(
+    [0] => X-Powered-By: PHP/5.3.8
+    [1] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [2] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [3] => Pragma: no-cache
+)
+
+[11/12/2012 22:19:16] Original URI: /images/sign-up.png
+[11/12/2012 22:19:16] Mod URI: /images/sign-up.png
+[11/12/2012 22:19:16] Array
+(
+    [0] => 
+    [1] => images
+    [2] => sign-up.png
+)
+
+[11/12/2012 22:19:16] Original URI: /404
+[11/12/2012 22:19:16] Mod URI: /404
+[11/12/2012 22:19:16] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[11/12/2012 22:19:16] 404.class.php
+[11/12/2012 22:19:16] Template: 404
+[11/12/2012 22:19:16] Page Args: 
+[11/12/2012 22:19:16] Array
+(
+)
+
+[11/12/2012 22:19:16] Array
+(
+    [0] => X-Powered-By: PHP/5.3.8
+    [1] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [2] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [3] => Pragma: no-cache
+)
+
+[11/12/2012 22:19:16] Original URI: /favicon.ico
+[11/12/2012 22:19:16] Mod URI: /favicon.ico
+[11/12/2012 22:19:16] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[11/12/2012 22:19:16] Original URI: /favicon.ico
+[11/12/2012 22:19:16] Mod URI: /favicon.ico
+[11/12/2012 22:19:16] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[11/12/2012 22:19:16] Original URI: /404
+[11/12/2012 22:19:16] Mod URI: /404
+[11/12/2012 22:19:16] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[11/12/2012 22:19:16] 404.class.php
+[11/12/2012 22:19:16] Template: 404
+[11/12/2012 22:19:16] Page Args: 
+[11/12/2012 22:19:16] Array
+(
+)
+
+[11/12/2012 22:19:16] Array
+(
+    [0] => X-Powered-By: PHP/5.3.8
+    [1] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [2] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [3] => Pragma: no-cache
+)
+
+[11/12/2012 22:19:16] Original URI: /404
+[11/12/2012 22:19:16] Mod URI: /404
+[11/12/2012 22:19:16] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[11/12/2012 22:19:16] 404.class.php
+[11/12/2012 22:19:16] Template: 404
+[11/12/2012 22:19:16] Page Args: 
+[11/12/2012 22:19:16] Array
+(
+)
+
+[11/12/2012 22:19:16] Array
+(
+    [0] => X-Powered-By: PHP/5.3.8
+    [1] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [2] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [3] => Pragma: no-cache
+)
+
+[11/12/2012 22:19:21] Original URI: /login
+[11/12/2012 22:19:21] Mod URI: /login
+[11/12/2012 22:19:21] Array
+(
+    [0] => 
+    [1] => login
+)
+
+[11/12/2012 22:19:21] login.class.php
+[11/12/2012 22:19:21] Template: login
+[11/12/2012 22:19:21] Page Args: 
+[11/12/2012 22:19:21] Array
+(
+)
+
+[11/12/2012 22:19:21] login(admin,admin)
+[11/12/2012 22:19:21] createSession(11)
+[11/12/2012 22:19:21] sessions row for userid exists
+[11/12/2012 22:19:22] Sessid: 831b91878b732183c7a1bce049db7a7f
+[11/12/2012 22:19:22] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1352780362,6,11,'Admin appears from within the void!','showUser(\'11\');')
+[11/12/2012 22:19:22] Array
+(
+    [0] => X-Powered-By: PHP/5.3.8
+    [1] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [2] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [3] => Pragma: no-cache
+    [4] => Set-Cookie: mpn_sessid=831b91878b732183c7a1bce049db7a7f
+    [5] => location: http://rpg.bremaweb.com/
+)
+
+[11/12/2012 22:19:22] Original URI: 
+[11/12/2012 22:19:22] Mod URI: 
+[11/12/2012 22:19:22] Template: index
+[11/12/2012 22:19:22] Page Args: 
+[11/12/2012 22:19:22] 
+[11/12/2012 22:19:22] Array
+(
+    [0] => X-Powered-By: PHP/5.3.8
+    [1] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [2] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [3] => Pragma: no-cache
+)
+
+[11/12/2012 22:19:22] Original URI: /favicon.ico
+[11/12/2012 22:19:22] Mod URI: /favicon.ico
+[11/12/2012 22:19:22] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[11/12/2012 22:19:22] Original URI: /404
+[11/12/2012 22:19:22] Mod URI: /404
+[11/12/2012 22:19:22] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[11/12/2012 22:19:22] 404.class.php
+[11/12/2012 22:19:22] Template: 404
+[11/12/2012 22:19:22] Page Args: 
+[11/12/2012 22:19:22] Array
+(
+)
+
+[11/12/2012 22:19:22] Array
+(
+    [0] => X-Powered-By: PHP/5.3.8
+    [1] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [2] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [3] => Pragma: no-cache
+)
+
+[11/12/2012 22:19:23] Original URI: /favicon.ico
+[11/12/2012 22:19:23] Mod URI: /favicon.ico
+[11/12/2012 22:19:23] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[11/12/2012 22:19:23] Original URI: /404
+[11/12/2012 22:19:23] Mod URI: /404
+[11/12/2012 22:19:23] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[11/12/2012 22:19:23] 404.class.php
+[11/12/2012 22:19:23] Template: 404
+[11/12/2012 22:19:23] Page Args: 
+[11/12/2012 22:19:23] Array
+(
+)
+
+[11/12/2012 22:19:23] Array
+(
+    [0] => X-Powered-By: PHP/5.3.8
+    [1] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [2] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [3] => Pragma: no-cache
+)
+
+[11/12/2012 22:19:25] Original URI: /game
+[11/12/2012 22:19:25] Mod URI: /game
+[11/12/2012 22:19:25] Array
+(
+    [0] => 
+    [1] => game
+)
+
+[11/12/2012 22:19:25] game.class.php
+[11/12/2012 22:19:25] Template: game
+[11/12/2012 22:19:25] Page Args: 
+[11/12/2012 22:19:25] Array
+(
+)
+
+[11/12/2012 22:19:25] Array
+(
+    [0] => X-Powered-By: PHP/5.3.8
+    [1] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [2] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [3] => Pragma: no-cache
+    [4] => Content-type: text/html
+)
+
+[11/12/2012 22:19:26] SELECT tile_id FROM tiles WHERE tile_x = -2 AND tile_y = 1 AND tile_z = 0
+[11/12/2012 22:19:26] SELECT tile_id FROM tiles WHERE tile_x = -2 AND tile_y = -1 AND tile_z = 0
+[11/12/2012 22:19:26] SELECT tile_id FROM tiles WHERE tile_x = -1 AND tile_y = 0 AND tile_z = 0
+[11/12/2012 22:19:26] SELECT tile_id FROM tiles WHERE tile_x = -3 AND tile_y = 0 AND tile_z = 0
+[11/12/2012 22:19:26] Original URI: /favicon.ico
+[11/12/2012 22:19:26] Mod URI: /favicon.ico
+[11/12/2012 22:19:26] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[11/12/2012 22:19:26] Original URI: /favicon.ico
+[11/12/2012 22:19:26] Mod URI: /favicon.ico
+[11/12/2012 22:19:26] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[11/12/2012 22:19:26] Original URI: /404
+[11/12/2012 22:19:26] Mod URI: /404
+[11/12/2012 22:19:26] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[11/12/2012 22:19:26] 404.class.php
+[11/12/2012 22:19:27] Template: 404
+[11/12/2012 22:19:27] Page Args: 
+[11/12/2012 22:19:27] Array
+(
+)
+
+[11/12/2012 22:19:27] Array
+(
+    [0] => X-Powered-By: PHP/5.3.8
+    [1] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [2] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [3] => Pragma: no-cache
+)
+
+[11/12/2012 22:19:27] Original URI: /404
+[11/12/2012 22:19:27] Mod URI: /404
+[11/12/2012 22:19:27] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[11/12/2012 22:19:27] 404.class.php
+[11/12/2012 22:19:27] Template: 404
+[11/12/2012 22:19:27] Page Args: 
+[11/12/2012 22:19:27] Array
+(
+)
+
+[11/12/2012 22:19:27] Array
+(
+    [0] => X-Powered-By: PHP/5.3.8
+    [1] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [2] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [3] => Pragma: no-cache
+)
+
+[11/12/2012 22:19:30] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1352780370.42,24,11,'','showUser(11,\'Admin\',\'user11avatar-8123f5c8bd1a2ca5955f4520e65908b5.jpg\');')
+[11/12/2012 22:19:30] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1352780370.48,6,11,'','removeUser(11);')
+[11/12/2012 22:19:30] SELECT tile_id FROM tiles WHERE tile_x = -2 AND tile_y = 2 AND tile_z = 0
+[11/12/2012 22:19:30] SELECT tile_id FROM tiles WHERE tile_x = -2 AND tile_y = 0 AND tile_z = 0
+[11/12/2012 22:19:30] SELECT tile_id FROM tiles WHERE tile_x = -1 AND tile_y = 1 AND tile_z = 0
+[11/12/2012 22:19:30] SELECT tile_id FROM tiles WHERE tile_x = -3 AND tile_y = 1 AND tile_z = 0
+[11/12/2012 22:19:31] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1352780371.81,6,11,'','showUser(11,\'Admin\',\'user11avatar-8123f5c8bd1a2ca5955f4520e65908b5.jpg\');')
+[11/12/2012 22:19:31] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1352780371.85,24,11,'','removeUser(11);')
+[11/12/2012 22:19:31] SELECT tile_id FROM tiles WHERE tile_x = -2 AND tile_y = 1 AND tile_z = 0
+[11/12/2012 22:19:31] SELECT tile_id FROM tiles WHERE tile_x = -2 AND tile_y = -1 AND tile_z = 0
+[11/12/2012 22:19:31] SELECT tile_id FROM tiles WHERE tile_x = -1 AND tile_y = 0 AND tile_z = 0
+[11/12/2012 22:19:31] SELECT tile_id FROM tiles WHERE tile_x = -3 AND tile_y = 0 AND tile_z = 0
+[11/12/2012 22:19:32] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1352780372.83,5,11,'','showUser(11,\'Admin\',\'user11avatar-8123f5c8bd1a2ca5955f4520e65908b5.jpg\');')
+[11/12/2012 22:19:32] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1352780373.46,6,11,'','removeUser(11);')
+[11/12/2012 22:19:32] SELECT tile_id FROM tiles WHERE tile_x = -1 AND tile_y = 1 AND tile_z = 0
+[11/12/2012 22:19:32] SELECT tile_id FROM tiles WHERE tile_x = -1 AND tile_y = -1 AND tile_z = 0
+[11/12/2012 22:19:32] SELECT tile_id FROM tiles WHERE tile_x = 0 AND tile_y = 0 AND tile_z = 0
+[11/12/2012 22:19:32] SELECT tile_id FROM tiles WHERE tile_x = -2 AND tile_y = 0 AND tile_z = 0
+[11/12/2012 22:19:33] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1352780373.73,1,11,'','showUser(11,\'Admin\',\'user11avatar-8123f5c8bd1a2ca5955f4520e65908b5.jpg\');')
+[11/12/2012 22:19:33] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1352780373.77,5,11,'','removeUser(11);')
+[11/12/2012 22:19:33] SELECT tile_id FROM tiles WHERE tile_x = 0 AND tile_y = 1 AND tile_z = 0
+[11/12/2012 22:19:33] SELECT tile_id FROM tiles WHERE tile_x = 0 AND tile_y = -1 AND tile_z = 0
+[11/12/2012 22:19:33] SELECT tile_id FROM tiles WHERE tile_x = 1 AND tile_y = 0 AND tile_z = 0
+[11/12/2012 22:19:33] SELECT tile_id FROM tiles WHERE tile_x = -1 AND tile_y = 0 AND tile_z = 0
+[11/12/2012 22:19:39] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1352780379.03,2,11,'','showUser(11,\'Admin\',\'user11avatar-8123f5c8bd1a2ca5955f4520e65908b5.jpg\');')
+[11/12/2012 22:19:39] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1352780379.66,1,11,'','removeUser(11);')
+[11/12/2012 22:19:39] SELECT tile_id FROM tiles WHERE tile_x = 0 AND tile_y = 0 AND tile_z = 0
+[11/12/2012 22:19:39] SELECT tile_id FROM tiles WHERE tile_x = 0 AND tile_y = -2 AND tile_z = 0
+[11/12/2012 22:19:39] SELECT tile_id FROM tiles WHERE tile_x = 1 AND tile_y = -1 AND tile_z = 0
+[11/12/2012 22:19:39] SELECT tile_id FROM tiles WHERE tile_x = -1 AND tile_y = -1 AND tile_z = 0
+[11/12/2012 22:19:40] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1352780380.34,3,11,'','showUser(11,\'Admin\',\'user11avatar-8123f5c8bd1a2ca5955f4520e65908b5.jpg\');')
+[11/12/2012 22:19:40] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1352780380.4,2,11,'','removeUser(11);')
+[11/12/2012 22:19:40] SELECT tile_id FROM tiles WHERE tile_x = 0 AND tile_y = -1 AND tile_z = 0
+[11/12/2012 22:19:40] SELECT tile_id FROM tiles WHERE tile_x = 0 AND tile_y = -3 AND tile_z = 0
+[11/12/2012 22:19:40] SELECT tile_id FROM tiles WHERE tile_x = 1 AND tile_y = -2 AND tile_z = 0
+[11/12/2012 22:19:40] SELECT tile_id FROM tiles WHERE tile_x = -1 AND tile_y = -2 AND tile_z = 0
+[11/12/2012 22:19:41] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1352780381.5,4,11,'','showUser(11,\'Admin\',\'user11avatar-8123f5c8bd1a2ca5955f4520e65908b5.jpg\');')
+[11/12/2012 22:19:41] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1352780381.53,3,11,'','removeUser(11);')
+[11/12/2012 22:19:41] SELECT tile_id FROM tiles WHERE tile_x = 0 AND tile_y = -2 AND tile_z = 0
+[11/12/2012 22:19:41] SELECT tile_id FROM tiles WHERE tile_x = 0 AND tile_y = -4 AND tile_z = 0
+[11/12/2012 22:19:41] SELECT tile_id FROM tiles WHERE tile_x = 1 AND tile_y = -3 AND tile_z = 0
+[11/12/2012 22:19:41] SELECT tile_id FROM tiles WHERE tile_x = -1 AND tile_y = -3 AND tile_z = 0
+[11/12/2012 22:19:43] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1352780383.03,11,11,'','showUser(11,\'Admin\',\'user11avatar-8123f5c8bd1a2ca5955f4520e65908b5.jpg\');')
+[11/12/2012 22:19:43] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1352780383.07,4,11,'','removeUser(11);')
+[11/12/2012 22:19:43] SELECT tile_id FROM tiles WHERE tile_x = 0 AND tile_y = -3 AND tile_z = 0
+[11/12/2012 22:19:43] SELECT tile_id FROM tiles WHERE tile_x = 0 AND tile_y = -5 AND tile_z = 0
+[11/12/2012 22:19:43] SELECT tile_id FROM tiles WHERE tile_x = 1 AND tile_y = -4 AND tile_z = 0
+[11/12/2012 22:19:43] SELECT tile_id FROM tiles WHERE tile_x = -1 AND tile_y = -4 AND tile_z = 0
+[11/12/2012 22:22:40] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1352780560.72,4,11,'','showUser(11,\'Admin\',\'user11avatar-8123f5c8bd1a2ca5955f4520e65908b5.jpg\');')
+[11/12/2012 22:22:40] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1352780560.75,11,11,'','removeUser(11);')
+[11/12/2012 22:22:40] SELECT tile_id FROM tiles WHERE tile_x = 0 AND tile_y = -2 AND tile_z = 0
+[11/12/2012 22:22:40] SELECT tile_id FROM tiles WHERE tile_x = 0 AND tile_y = -4 AND tile_z = 0
+[11/12/2012 22:22:40] SELECT tile_id FROM tiles WHERE tile_x = 1 AND tile_y = -3 AND tile_z = 0
+[11/12/2012 22:22:40] SELECT tile_id FROM tiles WHERE tile_x = -1 AND tile_y = -3 AND tile_z = 0
+[11/12/2012 22:22:42] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1352780562.03,3,11,'','showUser(11,\'Admin\',\'user11avatar-8123f5c8bd1a2ca5955f4520e65908b5.jpg\');')
+[11/12/2012 22:22:42] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1352780562.06,4,11,'','removeUser(11);')
+[11/12/2012 22:22:42] SELECT tile_id FROM tiles WHERE tile_x = 0 AND tile_y = -1 AND tile_z = 0
+[11/12/2012 22:22:42] SELECT tile_id FROM tiles WHERE tile_x = 0 AND tile_y = -3 AND tile_z = 0
+[11/12/2012 22:22:42] SELECT tile_id FROM tiles WHERE tile_x = 1 AND tile_y = -2 AND tile_z = 0
+[11/12/2012 22:22:42] SELECT tile_id FROM tiles WHERE tile_x = -1 AND tile_y = -2 AND tile_z = 0
+[11/12/2012 22:22:43] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1352780563.23,2,11,'','showUser(11,\'Admin\',\'user11avatar-8123f5c8bd1a2ca5955f4520e65908b5.jpg\');')
+[11/12/2012 22:22:43] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1352780563.31,3,11,'','removeUser(11);')
+[11/12/2012 22:22:43] SELECT tile_id FROM tiles WHERE tile_x = 0 AND tile_y = 0 AND tile_z = 0
+[11/12/2012 22:22:43] SELECT tile_id FROM tiles WHERE tile_x = 0 AND tile_y = -2 AND tile_z = 0
+[11/12/2012 22:22:43] SELECT tile_id FROM tiles WHERE tile_x = 1 AND tile_y = -1 AND tile_z = 0
+[11/12/2012 22:22:43] SELECT tile_id FROM tiles WHERE tile_x = -1 AND tile_y = -1 AND tile_z = 0
+[11/12/2012 22:24:42] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1352780682.77,1,11,'','showUser(11,\'Admin\',\'user11avatar-8123f5c8bd1a2ca5955f4520e65908b5.jpg\');')
+[11/12/2012 22:24:42] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1352780682.79,2,11,'','removeUser(11);')
+[11/12/2012 22:24:42] SELECT tile_id FROM tiles WHERE tile_x = 0 AND tile_y = 1 AND tile_z = 0
+[11/12/2012 22:24:42] SELECT tile_id FROM tiles WHERE tile_x = 0 AND tile_y = -1 AND tile_z = 0
+[11/12/2012 22:24:42] SELECT tile_id FROM tiles WHERE tile_x = 1 AND tile_y = 0 AND tile_z = 0
+[11/12/2012 22:24:42] SELECT tile_id FROM tiles WHERE tile_x = -1 AND tile_y = 0 AND tile_z = 0
+[11/12/2012 22:24:44] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1352780684.42,8,11,'','showUser(11,\'Admin\',\'user11avatar-8123f5c8bd1a2ca5955f4520e65908b5.jpg\');')
+[11/12/2012 22:24:44] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1352780685.06,1,11,'','removeUser(11);')
+[11/12/2012 22:24:44] SELECT tile_id FROM tiles WHERE tile_x = 1 AND tile_y = 1 AND tile_z = 0
+[11/12/2012 22:24:44] SELECT tile_id FROM tiles WHERE tile_x = 1 AND tile_y = -1 AND tile_z = 0
+[11/12/2012 22:24:44] SELECT tile_id FROM tiles WHERE tile_x = 2 AND tile_y = 0 AND tile_z = 0
+[11/12/2012 22:24:44] SELECT tile_id FROM tiles WHERE tile_x = 0 AND tile_y = 0 AND tile_z = 0
+[11/12/2012 22:24:45] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1352780685.34,9,11,'','showUser(11,\'Admin\',\'user11avatar-8123f5c8bd1a2ca5955f4520e65908b5.jpg\');')
+[11/12/2012 22:24:45] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1352780685.38,8,11,'','removeUser(11);')
+[11/12/2012 22:24:45] SELECT tile_id FROM tiles WHERE tile_x = 2 AND tile_y = 1 AND tile_z = 0
+[11/12/2012 22:24:45] SELECT tile_id FROM tiles WHERE tile_x = 2 AND tile_y = -1 AND tile_z = 0
+[11/12/2012 22:24:45] SELECT tile_id FROM tiles WHERE tile_x = 3 AND tile_y = 0 AND tile_z = 0
+[11/12/2012 22:24:45] SELECT tile_id FROM tiles WHERE tile_x = 1 AND tile_y = 0 AND tile_z = 0
+[11/12/2012 22:24:54] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1352780694.55,10,11,'','showUser(11,\'Admin\',\'user11avatar-8123f5c8bd1a2ca5955f4520e65908b5.jpg\');')
+[11/12/2012 22:24:54] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1352780694.58,9,11,'','removeUser(11);')
+[11/12/2012 22:24:54] SELECT tile_id FROM tiles WHERE tile_x = 3 AND tile_y = 1 AND tile_z = 0
+[11/12/2012 22:24:54] SELECT tile_id FROM tiles WHERE tile_x = 3 AND tile_y = -1 AND tile_z = 0
+[11/12/2012 22:24:54] SELECT tile_id FROM tiles WHERE tile_x = 4 AND tile_y = 0 AND tile_z = 0
+[11/12/2012 22:24:54] SELECT tile_id FROM tiles WHERE tile_x = 2 AND tile_y = 0 AND tile_z = 0
+[11/12/2012 22:24:56] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1352780696.73,28,11,'','showUser(11,\'Admin\',\'user11avatar-8123f5c8bd1a2ca5955f4520e65908b5.jpg\');')
+[11/12/2012 22:24:56] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1352780696.76,10,11,'','removeUser(11);')
+[11/12/2012 22:24:56] SELECT tile_id FROM tiles WHERE tile_x = 3 AND tile_y = 2 AND tile_z = 0
+[11/12/2012 22:24:56] SELECT tile_id FROM tiles WHERE tile_x = 3 AND tile_y = 0 AND tile_z = 0
+[11/12/2012 22:24:56] SELECT tile_id FROM tiles WHERE tile_x = 4 AND tile_y = 1 AND tile_z = 0
+[11/12/2012 22:24:56] SELECT tile_id FROM tiles WHERE tile_x = 2 AND tile_y = 1 AND tile_z = 0
+[11/12/2012 22:24:58] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1352780698,10,11,'','showUser(11,\'Admin\',\'user11avatar-8123f5c8bd1a2ca5955f4520e65908b5.jpg\');')
+[11/12/2012 22:24:58] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1352780698.04,28,11,'','removeUser(11);')
+[11/12/2012 22:24:58] SELECT tile_id FROM tiles WHERE tile_x = 3 AND tile_y = 1 AND tile_z = 0
+[11/12/2012 22:24:58] SELECT tile_id FROM tiles WHERE tile_x = 3 AND tile_y = -1 AND tile_z = 0
+[11/12/2012 22:24:58] SELECT tile_id FROM tiles WHERE tile_x = 4 AND tile_y = 0 AND tile_z = 0
+[11/12/2012 22:24:58] SELECT tile_id FROM tiles WHERE tile_x = 2 AND tile_y = 0 AND tile_z = 0
+[11/12/2012 22:25:00] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1352780700.36,9,11,'','showUser(11,\'Admin\',\'user11avatar-8123f5c8bd1a2ca5955f4520e65908b5.jpg\');')
+[11/12/2012 22:25:00] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1352780700.39,10,11,'','removeUser(11);')
+[11/12/2012 22:25:00] SELECT tile_id FROM tiles WHERE tile_x = 2 AND tile_y = 1 AND tile_z = 0
+[11/12/2012 22:25:00] SELECT tile_id FROM tiles WHERE tile_x = 2 AND tile_y = -1 AND tile_z = 0
+[11/12/2012 22:25:00] SELECT tile_id FROM tiles WHERE tile_x = 3 AND tile_y = 0 AND tile_z = 0
+[11/12/2012 22:25:00] SELECT tile_id FROM tiles WHERE tile_x = 1 AND tile_y = 0 AND tile_z = 0
+[11/12/2012 22:25:01] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1352780701.38,8,11,'','showUser(11,\'Admin\',\'user11avatar-8123f5c8bd1a2ca5955f4520e65908b5.jpg\');')
+[11/12/2012 22:25:01] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1352780701.41,9,11,'','removeUser(11);')
+[11/12/2012 22:25:01] SELECT tile_id FROM tiles WHERE tile_x = 1 AND tile_y = 1 AND tile_z = 0
+[11/12/2012 22:25:01] SELECT tile_id FROM tiles WHERE tile_x = 1 AND tile_y = -1 AND tile_z = 0
+[11/12/2012 22:25:01] SELECT tile_id FROM tiles WHERE tile_x = 2 AND tile_y = 0 AND tile_z = 0
+[11/12/2012 22:25:01] SELECT tile_id FROM tiles WHERE tile_x = 0 AND tile_y = 0 AND tile_z = 0
+[11/12/2012 22:25:02] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1352780702.11,1,11,'','showUser(11,\'Admin\',\'user11avatar-8123f5c8bd1a2ca5955f4520e65908b5.jpg\');')
+[11/12/2012 22:25:02] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1352780702.32,8,11,'','removeUser(11);')
+[11/12/2012 22:25:02] SELECT tile_id FROM tiles WHERE tile_x = 0 AND tile_y = 1 AND tile_z = 0
+[11/12/2012 22:25:02] SELECT tile_id FROM tiles WHERE tile_x = 0 AND tile_y = -1 AND tile_z = 0
+[11/12/2012 22:25:02] SELECT tile_id FROM tiles WHERE tile_x = 1 AND tile_y = 0 AND tile_z = 0
+[11/12/2012 22:25:02] SELECT tile_id FROM tiles WHERE tile_x = -1 AND tile_y = 0 AND tile_z = 0

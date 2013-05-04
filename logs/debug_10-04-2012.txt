@@ -1,0 +1,352 @@
+[10/04/2012 08:26:34] Original URI: /game
+[10/04/2012 08:26:34] Mod URI: /game
+[10/04/2012 08:26:34] Array
+(
+    [0] => 
+    [1] => game
+)
+
+[10/04/2012 08:26:34] game.class.php
+[10/04/2012 08:26:34] Template: game
+[10/04/2012 08:26:34] Page Args: 
+[10/04/2012 08:26:34] Array
+(
+)
+
+[10/04/2012 08:26:34] Original URI: /login
+[10/04/2012 08:26:34] Mod URI: /login
+[10/04/2012 08:26:34] Array
+(
+    [0] => 
+    [1] => login
+)
+
+[10/04/2012 08:26:34] login.class.php
+[10/04/2012 08:26:34] Template: login
+[10/04/2012 08:26:34] Page Args: 
+[10/04/2012 08:26:34] Array
+(
+)
+
+[10/04/2012 08:26:34] Array
+(
+    [0] => X-Powered-By: PHP/5.3.8
+    [1] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [2] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [3] => Pragma: no-cache
+)
+
+[10/04/2012 08:26:37] Original URI: /images/sign-up.png
+[10/04/2012 08:26:37] Mod URI: /images/sign-up.png
+[10/04/2012 08:26:37] Array
+(
+    [0] => 
+    [1] => images
+    [2] => sign-up.png
+)
+
+[10/04/2012 08:26:37] Original URI: /404
+[10/04/2012 08:26:37] Mod URI: /404
+[10/04/2012 08:26:37] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[10/04/2012 08:26:37] 404.class.php
+[10/04/2012 08:26:37] Template: 404
+[10/04/2012 08:26:37] Page Args: 
+[10/04/2012 08:26:37] Array
+(
+)
+
+[10/04/2012 08:26:38] Array
+(
+    [0] => X-Powered-By: PHP/5.3.8
+    [1] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [2] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [3] => Pragma: no-cache
+)
+
+[10/04/2012 08:26:39] Original URI: /favicon.ico
+[10/04/2012 08:26:39] Mod URI: /favicon.ico
+[10/04/2012 08:26:39] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[10/04/2012 08:26:39] Original URI: /favicon.ico
+[10/04/2012 08:26:39] Mod URI: /favicon.ico
+[10/04/2012 08:26:39] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[10/04/2012 08:26:39] Original URI: /404
+[10/04/2012 08:26:39] Mod URI: /404
+[10/04/2012 08:26:39] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[10/04/2012 08:26:39] 404.class.php
+[10/04/2012 08:26:39] Template: 404
+[10/04/2012 08:26:39] Page Args: 
+[10/04/2012 08:26:39] Array
+(
+)
+
+[10/04/2012 08:26:40] Array
+(
+    [0] => X-Powered-By: PHP/5.3.8
+    [1] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [2] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [3] => Pragma: no-cache
+)
+
+[10/04/2012 08:26:40] Original URI: /404
+[10/04/2012 08:26:40] Mod URI: /404
+[10/04/2012 08:26:40] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[10/04/2012 08:26:40] 404.class.php
+[10/04/2012 08:26:40] Template: 404
+[10/04/2012 08:26:40] Page Args: 
+[10/04/2012 08:26:40] Array
+(
+)
+
+[10/04/2012 08:26:40] Array
+(
+    [0] => X-Powered-By: PHP/5.3.8
+    [1] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [2] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [3] => Pragma: no-cache
+)
+
+[10/04/2012 21:31:02] Original URI: 
+[10/04/2012 21:31:02] Mod URI: 
+[10/04/2012 21:31:02] Template: index
+[10/04/2012 21:31:02] Page Args: 
+[10/04/2012 21:31:02] 
+[10/04/2012 21:31:02] Array
+(
+    [0] => X-Powered-By: PHP/5.3.8
+    [1] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [2] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [3] => Pragma: no-cache
+)
+
+[10/04/2012 21:31:04] Original URI: 
+[10/04/2012 21:31:04] Mod URI: 
+[10/04/2012 21:31:04] Template: index
+[10/04/2012 21:31:04] Page Args: 
+[10/04/2012 21:31:04] 
+[10/04/2012 21:31:04] Array
+(
+    [0] => X-Powered-By: PHP/5.3.8
+    [1] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [2] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [3] => Pragma: no-cache
+)
+
+[10/04/2012 21:31:04] Original URI: /favicon.ico
+[10/04/2012 21:31:04] Mod URI: /favicon.ico
+[10/04/2012 21:31:04] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[10/04/2012 21:31:04] Original URI: /favicon.ico
+[10/04/2012 21:31:04] Mod URI: /favicon.ico
+[10/04/2012 21:31:04] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[10/04/2012 21:31:05] Original URI: /404
+[10/04/2012 21:31:05] Mod URI: /404
+[10/04/2012 21:31:05] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[10/04/2012 21:31:05] 404.class.php
+[10/04/2012 21:31:05] Template: 404
+[10/04/2012 21:31:05] Page Args: 
+[10/04/2012 21:31:05] Array
+(
+)
+
+[10/04/2012 21:31:05] Array
+(
+    [0] => X-Powered-By: PHP/5.3.8
+    [1] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [2] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [3] => Pragma: no-cache
+)
+
+[10/04/2012 21:31:05] Original URI: /404
+[10/04/2012 21:31:05] Mod URI: /404
+[10/04/2012 21:31:05] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[10/04/2012 21:31:05] 404.class.php
+[10/04/2012 21:31:05] Template: 404
+[10/04/2012 21:31:05] Page Args: 
+[10/04/2012 21:31:05] Array
+(
+)
+
+[10/04/2012 21:31:05] Array
+(
+    [0] => X-Powered-By: PHP/5.3.8
+    [1] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [2] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [3] => Pragma: no-cache
+)
+
+[10/04/2012 21:31:10] Original URI: /game
+[10/04/2012 21:31:10] Mod URI: /game
+[10/04/2012 21:31:10] Array
+(
+    [0] => 
+    [1] => game
+)
+
+[10/04/2012 21:31:10] game.class.php
+[10/04/2012 21:31:10] Template: game
+[10/04/2012 21:31:10] Page Args: 
+[10/04/2012 21:31:10] Array
+(
+)
+
+[10/04/2012 21:31:10] Original URI: /login
+[10/04/2012 21:31:10] Mod URI: /login
+[10/04/2012 21:31:10] Array
+(
+    [0] => 
+    [1] => login
+)
+
+[10/04/2012 21:31:10] login.class.php
+[10/04/2012 21:31:10] Template: login
+[10/04/2012 21:31:10] Page Args: 
+[10/04/2012 21:31:10] Array
+(
+)
+
+[10/04/2012 21:31:10] Array
+(
+    [0] => X-Powered-By: PHP/5.3.8
+    [1] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [2] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [3] => Pragma: no-cache
+)
+
+[10/04/2012 21:31:10] Original URI: /images/sign-up.png
+[10/04/2012 21:31:10] Mod URI: /images/sign-up.png
+[10/04/2012 21:31:10] Array
+(
+    [0] => 
+    [1] => images
+    [2] => sign-up.png
+)
+
+[10/04/2012 21:31:10] Original URI: /404
+[10/04/2012 21:31:10] Mod URI: /404
+[10/04/2012 21:31:10] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[10/04/2012 21:31:10] 404.class.php
+[10/04/2012 21:31:10] Template: 404
+[10/04/2012 21:31:10] Page Args: 
+[10/04/2012 21:31:10] Array
+(
+)
+
+[10/04/2012 21:31:10] Array
+(
+    [0] => X-Powered-By: PHP/5.3.8
+    [1] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [2] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [3] => Pragma: no-cache
+)
+
+[10/04/2012 21:31:10] Original URI: /favicon.ico
+[10/04/2012 21:31:10] Mod URI: /favicon.ico
+[10/04/2012 21:31:10] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[10/04/2012 21:31:10] Original URI: /404
+[10/04/2012 21:31:10] Mod URI: /404
+[10/04/2012 21:31:10] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[10/04/2012 21:31:10] 404.class.php
+[10/04/2012 21:31:10] Template: 404
+[10/04/2012 21:31:10] Page Args: 
+[10/04/2012 21:31:10] Array
+(
+)
+
+[10/04/2012 21:31:10] Array
+(
+    [0] => X-Powered-By: PHP/5.3.8
+    [1] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [2] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [3] => Pragma: no-cache
+)
+
+[10/04/2012 21:31:10] Original URI: /favicon.ico
+[10/04/2012 21:31:10] Mod URI: /favicon.ico
+[10/04/2012 21:31:10] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[10/04/2012 21:31:10] Original URI: /404
+[10/04/2012 21:31:10] Mod URI: /404
+[10/04/2012 21:31:10] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[10/04/2012 21:31:10] 404.class.php
+[10/04/2012 21:31:10] Template: 404
+[10/04/2012 21:31:10] Page Args: 
+[10/04/2012 21:31:10] Array
+(
+)
+
+[10/04/2012 21:31:10] Array
+(
+    [0] => X-Powered-By: PHP/5.3.8
+    [1] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [2] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [3] => Pragma: no-cache
+)
+

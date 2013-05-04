@@ -1,0 +1,964 @@
+[10/02/2012 22:00:42] Original URI: 
+[10/02/2012 22:00:42] Mod URI: 
+[10/02/2012 22:00:42] Template: index
+[10/02/2012 22:00:42] Page Args: 
+[10/02/2012 22:00:42] 
+[10/02/2012 22:00:42] Array
+(
+    [0] => X-Powered-By: PHP/5.3.8
+    [1] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [2] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [3] => Pragma: no-cache
+)
+
+[10/02/2012 22:00:45] Original URI: /favicon.ico
+[10/02/2012 22:00:45] Mod URI: /favicon.ico
+[10/02/2012 22:00:45] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[10/02/2012 22:00:45] Original URI: /favicon.ico
+[10/02/2012 22:00:45] Mod URI: /favicon.ico
+[10/02/2012 22:00:45] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[10/02/2012 22:00:45] Original URI: /404
+[10/02/2012 22:00:45] Mod URI: /404
+[10/02/2012 22:00:45] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[10/02/2012 22:00:45] 404.class.php
+[10/02/2012 22:00:45] Template: 404
+[10/02/2012 22:00:45] Page Args: 
+[10/02/2012 22:00:45] Array
+(
+)
+
+[10/02/2012 22:00:45] Array
+(
+    [0] => X-Powered-By: PHP/5.3.8
+    [1] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [2] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [3] => Pragma: no-cache
+)
+
+[10/02/2012 22:00:45] Original URI: /404
+[10/02/2012 22:00:45] Mod URI: /404
+[10/02/2012 22:00:45] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[10/02/2012 22:00:45] 404.class.php
+[10/02/2012 22:00:45] Template: 404
+[10/02/2012 22:00:45] Page Args: 
+[10/02/2012 22:00:45] Array
+(
+)
+
+[10/02/2012 22:00:45] Array
+(
+    [0] => X-Powered-By: PHP/5.3.8
+    [1] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [2] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [3] => Pragma: no-cache
+)
+
+[10/02/2012 22:00:46] Original URI: /game
+[10/02/2012 22:00:46] Mod URI: /game
+[10/02/2012 22:00:46] Array
+(
+    [0] => 
+    [1] => game
+)
+
+[10/02/2012 22:00:46] game.class.php
+[10/02/2012 22:00:46] Template: game
+[10/02/2012 22:00:46] Page Args: 
+[10/02/2012 22:00:46] Array
+(
+)
+
+[10/02/2012 22:00:47] Original URI: /login
+[10/02/2012 22:00:47] Mod URI: /login
+[10/02/2012 22:00:47] Array
+(
+    [0] => 
+    [1] => login
+)
+
+[10/02/2012 22:00:47] login.class.php
+[10/02/2012 22:00:47] Template: login
+[10/02/2012 22:00:47] Page Args: 
+[10/02/2012 22:00:47] Array
+(
+)
+
+[10/02/2012 22:00:47] Array
+(
+    [0] => X-Powered-By: PHP/5.3.8
+    [1] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [2] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [3] => Pragma: no-cache
+)
+
+[10/02/2012 22:00:47] Original URI: /images/sign-up.png
+[10/02/2012 22:00:47] Mod URI: /images/sign-up.png
+[10/02/2012 22:00:47] Array
+(
+    [0] => 
+    [1] => images
+    [2] => sign-up.png
+)
+
+[10/02/2012 22:00:47] Original URI: /404
+[10/02/2012 22:00:47] Mod URI: /404
+[10/02/2012 22:00:47] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[10/02/2012 22:00:47] 404.class.php
+[10/02/2012 22:00:47] Template: 404
+[10/02/2012 22:00:47] Page Args: 
+[10/02/2012 22:00:47] Array
+(
+)
+
+[10/02/2012 22:00:47] Array
+(
+    [0] => X-Powered-By: PHP/5.3.8
+    [1] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [2] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [3] => Pragma: no-cache
+)
+
+[10/02/2012 22:00:47] Original URI: /favicon.ico
+[10/02/2012 22:00:47] Mod URI: /favicon.ico
+[10/02/2012 22:00:47] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[10/02/2012 22:00:47] Original URI: /favicon.ico
+[10/02/2012 22:00:47] Mod URI: /favicon.ico
+[10/02/2012 22:00:47] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[10/02/2012 22:00:47] Original URI: /404
+[10/02/2012 22:00:47] Mod URI: /404
+[10/02/2012 22:00:47] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[10/02/2012 22:00:47] 404.class.php
+[10/02/2012 22:00:47] Template: 404
+[10/02/2012 22:00:47] Page Args: 
+[10/02/2012 22:00:47] Array
+(
+)
+
+[10/02/2012 22:00:47] Array
+(
+    [0] => X-Powered-By: PHP/5.3.8
+    [1] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [2] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [3] => Pragma: no-cache
+)
+
+[10/02/2012 22:00:47] Original URI: /404
+[10/02/2012 22:00:47] Mod URI: /404
+[10/02/2012 22:00:47] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[10/02/2012 22:00:47] 404.class.php
+[10/02/2012 22:00:47] Template: 404
+[10/02/2012 22:00:47] Page Args: 
+[10/02/2012 22:00:47] Array
+(
+)
+
+[10/02/2012 22:00:47] Array
+(
+    [0] => X-Powered-By: PHP/5.3.8
+    [1] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [2] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [3] => Pragma: no-cache
+)
+
+[10/02/2012 22:00:55] Original URI: /login
+[10/02/2012 22:00:55] Mod URI: /login
+[10/02/2012 22:00:55] Array
+(
+    [0] => 
+    [1] => login
+)
+
+[10/02/2012 22:00:55] login.class.php
+[10/02/2012 22:00:55] Template: login
+[10/02/2012 22:00:55] Page Args: 
+[10/02/2012 22:00:55] Array
+(
+)
+
+[10/02/2012 22:00:55] login(brandon.reese@gmail.com,not360change)
+[10/02/2012 22:00:55] Array
+(
+    [0] => X-Powered-By: PHP/5.3.8
+    [1] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [2] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [3] => Pragma: no-cache
+)
+
+[10/02/2012 22:00:55] Original URI: /images/sign-up.png
+[10/02/2012 22:00:55] Mod URI: /images/sign-up.png
+[10/02/2012 22:00:55] Array
+(
+    [0] => 
+    [1] => images
+    [2] => sign-up.png
+)
+
+[10/02/2012 22:00:55] Original URI: /404
+[10/02/2012 22:00:55] Mod URI: /404
+[10/02/2012 22:00:55] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[10/02/2012 22:00:55] 404.class.php
+[10/02/2012 22:00:55] Template: 404
+[10/02/2012 22:00:55] Page Args: 
+[10/02/2012 22:00:55] Array
+(
+)
+
+[10/02/2012 22:00:55] Array
+(
+    [0] => X-Powered-By: PHP/5.3.8
+    [1] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [2] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [3] => Pragma: no-cache
+)
+
+[10/02/2012 22:00:55] Original URI: /favicon.ico
+[10/02/2012 22:00:55] Mod URI: /favicon.ico
+[10/02/2012 22:00:55] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[10/02/2012 22:00:55] Original URI: /favicon.ico
+[10/02/2012 22:00:55] Mod URI: /favicon.ico
+[10/02/2012 22:00:55] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[10/02/2012 22:00:55] Original URI: /404
+[10/02/2012 22:00:55] Mod URI: /404
+[10/02/2012 22:00:55] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[10/02/2012 22:00:55] 404.class.php
+[10/02/2012 22:00:55] Template: 404
+[10/02/2012 22:00:55] Page Args: 
+[10/02/2012 22:00:55] Array
+(
+)
+
+[10/02/2012 22:00:55] Array
+(
+    [0] => X-Powered-By: PHP/5.3.8
+    [1] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [2] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [3] => Pragma: no-cache
+)
+
+[10/02/2012 22:00:55] Original URI: /404
+[10/02/2012 22:00:55] Mod URI: /404
+[10/02/2012 22:00:55] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[10/02/2012 22:00:55] 404.class.php
+[10/02/2012 22:00:55] Template: 404
+[10/02/2012 22:00:55] Page Args: 
+[10/02/2012 22:00:55] Array
+(
+)
+
+[10/02/2012 22:00:55] Array
+(
+    [0] => X-Powered-By: PHP/5.3.8
+    [1] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [2] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [3] => Pragma: no-cache
+)
+
+[10/02/2012 22:00:58] Original URI: /login
+[10/02/2012 22:00:58] Mod URI: /login
+[10/02/2012 22:00:58] Array
+(
+    [0] => 
+    [1] => login
+)
+
+[10/02/2012 22:00:58] login.class.php
+[10/02/2012 22:00:58] Template: login
+[10/02/2012 22:00:58] Page Args: 
+[10/02/2012 22:00:58] Array
+(
+)
+
+[10/02/2012 22:00:58] login(brandon.reese@gmail.com,M@di2006)
+[10/02/2012 22:00:58] Array
+(
+    [0] => X-Powered-By: PHP/5.3.8
+    [1] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [2] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [3] => Pragma: no-cache
+)
+
+[10/02/2012 22:00:59] Original URI: /images/sign-up.png
+[10/02/2012 22:00:59] Mod URI: /images/sign-up.png
+[10/02/2012 22:00:59] Array
+(
+    [0] => 
+    [1] => images
+    [2] => sign-up.png
+)
+
+[10/02/2012 22:00:59] Original URI: /404
+[10/02/2012 22:00:59] Mod URI: /404
+[10/02/2012 22:00:59] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[10/02/2012 22:00:59] 404.class.php
+[10/02/2012 22:00:59] Template: 404
+[10/02/2012 22:00:59] Page Args: 
+[10/02/2012 22:00:59] Array
+(
+)
+
+[10/02/2012 22:00:59] Array
+(
+    [0] => X-Powered-By: PHP/5.3.8
+    [1] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [2] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [3] => Pragma: no-cache
+)
+
+[10/02/2012 22:00:59] Original URI: /favicon.ico
+[10/02/2012 22:00:59] Mod URI: /favicon.ico
+[10/02/2012 22:00:59] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[10/02/2012 22:00:59] Original URI: /favicon.ico
+[10/02/2012 22:00:59] Mod URI: /favicon.ico
+[10/02/2012 22:00:59] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[10/02/2012 22:00:59] Original URI: /404
+[10/02/2012 22:00:59] Mod URI: /404
+[10/02/2012 22:00:59] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[10/02/2012 22:00:59] 404.class.php
+[10/02/2012 22:00:59] Template: 404
+[10/02/2012 22:00:59] Page Args: 
+[10/02/2012 22:00:59] Array
+(
+)
+
+[10/02/2012 22:00:59] Array
+(
+    [0] => X-Powered-By: PHP/5.3.8
+    [1] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [2] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [3] => Pragma: no-cache
+)
+
+[10/02/2012 22:00:59] Original URI: /404
+[10/02/2012 22:00:59] Mod URI: /404
+[10/02/2012 22:00:59] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[10/02/2012 22:00:59] 404.class.php
+[10/02/2012 22:00:59] Template: 404
+[10/02/2012 22:00:59] Page Args: 
+[10/02/2012 22:00:59] Array
+(
+)
+
+[10/02/2012 22:00:59] Array
+(
+    [0] => X-Powered-By: PHP/5.3.8
+    [1] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [2] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [3] => Pragma: no-cache
+)
+
+[10/02/2012 22:01:04] Original URI: /login
+[10/02/2012 22:01:04] Mod URI: /login
+[10/02/2012 22:01:04] Array
+(
+    [0] => 
+    [1] => login
+)
+
+[10/02/2012 22:01:04] login.class.php
+[10/02/2012 22:01:04] Template: login
+[10/02/2012 22:01:04] Page Args: 
+[10/02/2012 22:01:04] Array
+(
+)
+
+[10/02/2012 22:01:04] login(brandon@bremaweb.com,not360change)
+[10/02/2012 22:01:04] Array
+(
+    [0] => X-Powered-By: PHP/5.3.8
+    [1] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [2] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [3] => Pragma: no-cache
+)
+
+[10/02/2012 22:01:04] Original URI: /images/sign-up.png
+[10/02/2012 22:01:04] Mod URI: /images/sign-up.png
+[10/02/2012 22:01:04] Array
+(
+    [0] => 
+    [1] => images
+    [2] => sign-up.png
+)
+
+[10/02/2012 22:01:04] Original URI: /404
+[10/02/2012 22:01:04] Mod URI: /404
+[10/02/2012 22:01:04] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[10/02/2012 22:01:04] 404.class.php
+[10/02/2012 22:01:04] Template: 404
+[10/02/2012 22:01:04] Page Args: 
+[10/02/2012 22:01:04] Array
+(
+)
+
+[10/02/2012 22:01:04] Array
+(
+    [0] => X-Powered-By: PHP/5.3.8
+    [1] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [2] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [3] => Pragma: no-cache
+)
+
+[10/02/2012 22:01:05] Original URI: /favicon.ico
+[10/02/2012 22:01:05] Mod URI: /favicon.ico
+[10/02/2012 22:01:05] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[10/02/2012 22:01:05] Original URI: /favicon.ico
+[10/02/2012 22:01:05] Mod URI: /favicon.ico
+[10/02/2012 22:01:05] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[10/02/2012 22:01:05] Original URI: /404
+[10/02/2012 22:01:05] Mod URI: /404
+[10/02/2012 22:01:05] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[10/02/2012 22:01:05] 404.class.php
+[10/02/2012 22:01:05] Template: 404
+[10/02/2012 22:01:05] Page Args: 
+[10/02/2012 22:01:05] Array
+(
+)
+
+[10/02/2012 22:01:05] Array
+(
+    [0] => X-Powered-By: PHP/5.3.8
+    [1] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [2] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [3] => Pragma: no-cache
+)
+
+[10/02/2012 22:01:05] Original URI: /404
+[10/02/2012 22:01:05] Mod URI: /404
+[10/02/2012 22:01:05] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[10/02/2012 22:01:05] 404.class.php
+[10/02/2012 22:01:05] Template: 404
+[10/02/2012 22:01:05] Page Args: 
+[10/02/2012 22:01:05] Array
+(
+)
+
+[10/02/2012 22:01:05] Array
+(
+    [0] => X-Powered-By: PHP/5.3.8
+    [1] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [2] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [3] => Pragma: no-cache
+)
+
+[10/02/2012 22:01:08] Original URI: /login
+[10/02/2012 22:01:08] Mod URI: /login
+[10/02/2012 22:01:08] Array
+(
+    [0] => 
+    [1] => login
+)
+
+[10/02/2012 22:01:08] login.class.php
+[10/02/2012 22:01:08] Template: login
+[10/02/2012 22:01:08] Page Args: 
+[10/02/2012 22:01:08] Array
+(
+)
+
+[10/02/2012 22:01:08] login(brandon@bremaweb.com,M@di2006)
+[10/02/2012 22:01:08] Array
+(
+    [0] => X-Powered-By: PHP/5.3.8
+    [1] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [2] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [3] => Pragma: no-cache
+)
+
+[10/02/2012 22:01:08] Original URI: /images/sign-up.png
+[10/02/2012 22:01:08] Mod URI: /images/sign-up.png
+[10/02/2012 22:01:08] Array
+(
+    [0] => 
+    [1] => images
+    [2] => sign-up.png
+)
+
+[10/02/2012 22:01:08] Original URI: /404
+[10/02/2012 22:01:09] Mod URI: /404
+[10/02/2012 22:01:09] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[10/02/2012 22:01:09] 404.class.php
+[10/02/2012 22:01:09] Template: 404
+[10/02/2012 22:01:09] Page Args: 
+[10/02/2012 22:01:09] Array
+(
+)
+
+[10/02/2012 22:01:09] Array
+(
+    [0] => X-Powered-By: PHP/5.3.8
+    [1] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [2] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [3] => Pragma: no-cache
+)
+
+[10/02/2012 22:01:09] Original URI: /favicon.ico
+[10/02/2012 22:01:09] Mod URI: /favicon.ico
+[10/02/2012 22:01:09] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[10/02/2012 22:01:09] Original URI: /favicon.ico
+[10/02/2012 22:01:09] Mod URI: /favicon.ico
+[10/02/2012 22:01:09] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[10/02/2012 22:01:09] Original URI: /404
+[10/02/2012 22:01:09] Mod URI: /404
+[10/02/2012 22:01:09] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[10/02/2012 22:01:09] 404.class.php
+[10/02/2012 22:01:09] Template: 404
+[10/02/2012 22:01:09] Page Args: 
+[10/02/2012 22:01:09] Array
+(
+)
+
+[10/02/2012 22:01:09] Array
+(
+    [0] => X-Powered-By: PHP/5.3.8
+    [1] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [2] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [3] => Pragma: no-cache
+)
+
+[10/02/2012 22:01:09] Original URI: /404
+[10/02/2012 22:01:09] Mod URI: /404
+[10/02/2012 22:01:09] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[10/02/2012 22:01:09] 404.class.php
+[10/02/2012 22:01:09] Template: 404
+[10/02/2012 22:01:09] Page Args: 
+[10/02/2012 22:01:09] Array
+(
+)
+
+[10/02/2012 22:01:09] Array
+(
+    [0] => X-Powered-By: PHP/5.3.8
+    [1] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [2] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [3] => Pragma: no-cache
+)
+
+[10/02/2012 22:01:20] Original URI: /login
+[10/02/2012 22:01:20] Mod URI: /login
+[10/02/2012 22:01:20] Array
+(
+    [0] => 
+    [1] => login
+)
+
+[10/02/2012 22:01:20] login.class.php
+[10/02/2012 22:01:20] Template: login
+[10/02/2012 22:01:20] Page Args: 
+[10/02/2012 22:01:20] Array
+(
+)
+
+[10/02/2012 22:01:20] login(admin,admin)
+[10/02/2012 22:01:20] createSession(11)
+[10/02/2012 22:01:20] sessions row for userid exists
+[10/02/2012 22:01:20] Sessid: 23cfd6c08cb32c31a39f13b984066425
+[10/02/2012 22:01:20] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1349233280.22,6,11,'Admin appears from within the void!','showUser(\'11\');')
+[10/02/2012 22:01:20] Array
+(
+    [0] => X-Powered-By: PHP/5.3.8
+    [1] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [2] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [3] => Pragma: no-cache
+    [4] => Set-Cookie: mpn_sessid=23cfd6c08cb32c31a39f13b984066425
+    [5] => location: http://rpg.bremaweb.com/
+)
+
+[10/02/2012 22:01:20] Original URI: 
+[10/02/2012 22:01:20] Mod URI: 
+[10/02/2012 22:01:20] Template: index
+[10/02/2012 22:01:20] Page Args: 
+[10/02/2012 22:01:20] 
+[10/02/2012 22:01:20] Array
+(
+    [0] => X-Powered-By: PHP/5.3.8
+    [1] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [2] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [3] => Pragma: no-cache
+)
+
+[10/02/2012 22:01:20] Original URI: /favicon.ico
+[10/02/2012 22:01:20] Mod URI: /favicon.ico
+[10/02/2012 22:01:20] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[10/02/2012 22:01:20] Original URI: /favicon.ico
+[10/02/2012 22:01:20] Mod URI: /favicon.ico
+[10/02/2012 22:01:20] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[10/02/2012 22:01:20] Original URI: /404
+[10/02/2012 22:01:20] Mod URI: /404
+[10/02/2012 22:01:20] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[10/02/2012 22:01:20] 404.class.php
+[10/02/2012 22:01:20] Template: 404
+[10/02/2012 22:01:20] Page Args: 
+[10/02/2012 22:01:20] Array
+(
+)
+
+[10/02/2012 22:01:20] Array
+(
+    [0] => X-Powered-By: PHP/5.3.8
+    [1] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [2] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [3] => Pragma: no-cache
+)
+
+[10/02/2012 22:01:20] Original URI: /404
+[10/02/2012 22:01:20] Mod URI: /404
+[10/02/2012 22:01:20] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[10/02/2012 22:01:20] 404.class.php
+[10/02/2012 22:01:20] Template: 404
+[10/02/2012 22:01:20] Page Args: 
+[10/02/2012 22:01:20] Array
+(
+)
+
+[10/02/2012 22:01:20] Array
+(
+    [0] => X-Powered-By: PHP/5.3.8
+    [1] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [2] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [3] => Pragma: no-cache
+)
+
+[10/02/2012 22:01:22] Original URI: /game
+[10/02/2012 22:01:22] Mod URI: /game
+[10/02/2012 22:01:22] Array
+(
+    [0] => 
+    [1] => game
+)
+
+[10/02/2012 22:01:22] game.class.php
+[10/02/2012 22:01:22] Template: game
+[10/02/2012 22:01:22] Page Args: 
+[10/02/2012 22:01:22] Array
+(
+)
+
+[10/02/2012 22:01:22] Array
+(
+    [0] => X-Powered-By: PHP/5.3.8
+    [1] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [2] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [3] => Pragma: no-cache
+    [4] => Content-type: text/html
+)
+
+[10/02/2012 22:01:23] SELECT tile_id FROM tiles WHERE tile_x = -2 AND tile_y = 1 AND tile_z = 0
+[10/02/2012 22:01:23] SELECT tile_id FROM tiles WHERE tile_x = -2 AND tile_y = -1 AND tile_z = 0
+[10/02/2012 22:01:23] SELECT tile_id FROM tiles WHERE tile_x = -1 AND tile_y = 0 AND tile_z = 0
+[10/02/2012 22:01:23] SELECT tile_id FROM tiles WHERE tile_x = -3 AND tile_y = 0 AND tile_z = 0
+[10/02/2012 22:01:23] Original URI: /favicon.ico
+[10/02/2012 22:01:23] Mod URI: /favicon.ico
+[10/02/2012 22:01:23] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[10/02/2012 22:01:23] Original URI: /favicon.ico
+[10/02/2012 22:01:23] Mod URI: /favicon.ico
+[10/02/2012 22:01:23] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[10/02/2012 22:01:23] Original URI: /404
+[10/02/2012 22:01:23] Mod URI: /404
+[10/02/2012 22:01:23] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[10/02/2012 22:01:23] 404.class.php
+[10/02/2012 22:01:23] Template: 404
+[10/02/2012 22:01:23] Page Args: 
+[10/02/2012 22:01:23] Array
+(
+)
+
+[10/02/2012 22:01:23] Array
+(
+    [0] => X-Powered-By: PHP/5.3.8
+    [1] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [2] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [3] => Pragma: no-cache
+)
+
+[10/02/2012 22:01:23] Original URI: /404
+[10/02/2012 22:01:23] Mod URI: /404
+[10/02/2012 22:01:23] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[10/02/2012 22:01:23] 404.class.php
+[10/02/2012 22:01:23] Template: 404
+[10/02/2012 22:01:23] Page Args: 
+[10/02/2012 22:01:23] Array
+(
+)
+
+[10/02/2012 22:01:23] Array
+(
+    [0] => X-Powered-By: PHP/5.3.8
+    [1] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [2] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [3] => Pragma: no-cache
+)
+
+[10/02/2012 22:04:13] Original URI: /game
+[10/02/2012 22:04:13] Mod URI: /game
+[10/02/2012 22:04:13] Array
+(
+    [0] => 
+    [1] => game
+)
+
+[10/02/2012 22:04:13] game.class.php
+[10/02/2012 22:04:13] Template: game
+[10/02/2012 22:04:13] Page Args: 
+[10/02/2012 22:04:13] Array
+(
+)
+
+[10/02/2012 22:04:13] Array
+(
+    [0] => X-Powered-By: PHP/5.3.8
+    [1] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [2] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [3] => Pragma: no-cache
+    [4] => Content-type: text/html
+)
+
+[10/02/2012 22:04:15] SELECT tile_id FROM tiles WHERE tile_x = -2 AND tile_y = 1 AND tile_z = 0
+[10/02/2012 22:04:15] SELECT tile_id FROM tiles WHERE tile_x = -2 AND tile_y = -1 AND tile_z = 0
+[10/02/2012 22:04:15] SELECT tile_id FROM tiles WHERE tile_x = -1 AND tile_y = 0 AND tile_z = 0
+[10/02/2012 22:04:15] SELECT tile_id FROM tiles WHERE tile_x = -3 AND tile_y = 0 AND tile_z = 0
+[10/02/2012 22:04:15] Original URI: /favicon.ico
+[10/02/2012 22:04:15] Mod URI: /favicon.ico
+[10/02/2012 22:04:15] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[10/02/2012 22:04:15] Original URI: /favicon.ico
+[10/02/2012 22:04:15] Mod URI: /favicon.ico
+[10/02/2012 22:04:15] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[10/02/2012 22:04:15] Original URI: /404
+[10/02/2012 22:04:15] Mod URI: /404
+[10/02/2012 22:04:15] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[10/02/2012 22:04:15] 404.class.php
+[10/02/2012 22:04:15] Template: 404
+[10/02/2012 22:04:15] Page Args: 
+[10/02/2012 22:04:15] Array
+(
+)
+
+[10/02/2012 22:04:15] Array
+(
+    [0] => X-Powered-By: PHP/5.3.8
+    [1] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [2] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [3] => Pragma: no-cache
+)
+
+[10/02/2012 22:04:15] Original URI: /404
+[10/02/2012 22:04:15] Mod URI: /404
+[10/02/2012 22:04:15] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[10/02/2012 22:04:16] 404.class.php
+[10/02/2012 22:04:16] Template: 404
+[10/02/2012 22:04:16] Page Args: 
+[10/02/2012 22:04:16] Array
+(
+)
+
+[10/02/2012 22:04:16] Array
+(
+    [0] => X-Powered-By: PHP/5.3.8
+    [1] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [2] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [3] => Pragma: no-cache
+)
+
